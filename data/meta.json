@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-09-09",
-  "repo_count": 95,
-  "week_snapshot": null,
+  "last_update": "2026-09-10",
+  "repo_count": 99,
+  "week_snapshot": "2026-09-09",
   "top": [
     {
       "rank": 1,
-      "full_name": "codecrafters-io/build-your-own-x",
-      "stars": 546154,
-      "week_growth": 0
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "stars": 22338,
+      "week_growth": 1723
     },
     {
       "rank": 2,
-      "full_name": "sindresorhus/awesome",
-      "stars": 504431,
-      "week_growth": 0
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 218636,
+      "week_growth": 1530
     },
     {
       "rank": 3,
-      "full_name": "public-apis/public-apis",
-      "stars": 477908,
-      "week_growth": 0
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 134233,
+      "week_growth": 1291
     },
     {
       "rank": 4,
-      "full_name": "freeCodeCamp/freeCodeCamp",
-      "stars": 455249,
-      "week_growth": 0
+      "full_name": "mattpocock/skills",
+      "stars": 258406,
+      "week_growth": 905
     },
     {
       "rank": 5,
-      "full_name": "EbookFoundation/free-programming-books",
-      "stars": 396341,
-      "week_growth": 0
+      "full_name": "affaan-m/ECC",
+      "stars": 255574,
+      "week_growth": 790
     },
     {
       "rank": 6,
-      "full_name": "openclaw/openclaw",
-      "stars": 389274,
-      "week_growth": 0
+      "full_name": "obra/superpowers",
+      "stars": 284412,
+      "week_growth": 675
     },
     {
       "rank": 7,
-      "full_name": "donnemartin/system-design-primer",
-      "stars": 368906,
-      "week_growth": 0
+      "full_name": "public-apis/public-apis",
+      "stars": 478384,
+      "week_growth": 476
     },
     {
       "rank": 8,
-      "full_name": "nilbuild/developer-roadmap",
-      "stars": 366693,
-      "week_growth": 0
+      "full_name": "amagine-ai/Amagine3D",
+      "stars": 3422,
+      "week_growth": 451
     },
     {
       "rank": 9,
-      "full_name": "jwasham/coding-interview-university",
-      "stars": 360622,
-      "week_growth": 0
+      "full_name": "firecrawl/firecrawl",
+      "stars": 178627,
+      "week_growth": 419
     },
     {
       "rank": 10,
-      "full_name": "vinta/awesome-python",
-      "stars": 319466,
-      "week_growth": 0
+      "full_name": "anywhere-labs/dsh-desktop",
+      "stars": 25137,
+      "week_growth": 406
     },
     {
       "rank": 11,
-      "full_name": "awesome-selfhosted/awesome-selfhosted",
-      "stars": 318121,
-      "week_growth": 0
+      "full_name": "NousResearch/hermes-agent",
+      "stars": 244070,
+      "week_growth": 387
     },
     {
       "rank": 12,
-      "full_name": "obra/superpowers",
-      "stars": 283737,
-      "week_growth": 0
+      "full_name": "vorssaint/vorssaint-utils",
+      "stars": 17980,
+      "week_growth": 384
     },
     {
       "rank": 13,
-      "full_name": "practical-tutorials/project-based-learning",
-      "stars": 282731,
-      "week_growth": 0
+      "full_name": "EvoMap/AutoResearch",
+      "stars": 2906,
+      "week_growth": 368
     },
     {
       "rank": 14,
-      "full_name": "996icu/996.ICU",
-      "stars": 276927,
-      "week_growth": 0
+      "full_name": "ashemag/human-atlas",
+      "stars": 3009,
+      "week_growth": 331
     },
     {
       "rank": 15,
-      "full_name": "mattpocock/skills",
-      "stars": 257501,
-      "week_growth": 0
+      "full_name": "petergyang/no-ai-slop",
+      "stars": 8036,
+      "week_growth": 323
     },
     {
       "rank": 16,
-      "full_name": "affaan-m/ECC",
-      "stars": 254784,
-      "week_growth": 0
+      "full_name": "lnkiai/m3e-canvas",
+      "stars": 5714,
+      "week_growth": 267
     },
     {
       "rank": 17,
-      "full_name": "react/react",
-      "stars": 249672,
-      "week_growth": 0
+      "full_name": "sindresorhus/awesome",
+      "stars": 504695,
+      "week_growth": 264
     },
     {
       "rank": 18,
-      "full_name": "torvalds/linux",
-      "stars": 247619,
-      "week_growth": 0
+      "full_name": "microsoft/markitdown",
+      "stars": 182334,
+      "week_growth": 244
     },
     {
       "rank": 19,
-      "full_name": "NousResearch/hermes-agent",
-      "stars": 243683,
-      "week_growth": 0
+      "full_name": "anomalyco/opencode",
+      "stars": 206316,
+      "week_growth": 243
     },
     {
       "rank": 20,
-      "full_name": "trimstray/the-book-of-secret-knowledge",
-      "stars": 242818,
-      "week_growth": 0
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "stars": 212017,
+      "week_growth": 234
     }
   ]
 }
