@@ -1,0 +1,887 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T03:11:05.531359+00:00",
+  "count": 110,
+  "repos": {
+    "codecrafters-io/build-your-own-x": {
+      "full_name": "codecrafters-io/build-your-own-x",
+      "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 546638,
+      "created_at": "2018-05-09",
+      "language": "Markdown"
+    },
+    "sindresorhus/awesome": {
+      "full_name": "sindresorhus/awesome",
+      "html_url": "https://github.com/sindresorhus/awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "stars": 505195,
+      "created_at": "2014-07-11",
+      "language": ""
+    },
+    "public-apis/public-apis": {
+      "full_name": "public-apis/public-apis",
+      "html_url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 479061,
+      "created_at": "2016-03-20",
+      "language": "Python"
+    },
+    "freeCodeCamp/freeCodeCamp": {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 455328,
+      "created_at": "2014-12-24",
+      "language": "TypeScript"
+    },
+    "EbookFoundation/free-programming-books": {
+      "full_name": "EbookFoundation/free-programming-books",
+      "html_url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "stars": 396556,
+      "created_at": "2013-10-11",
+      "language": "Python"
+    },
+    "openclaw/openclaw": {
+      "full_name": "openclaw/openclaw",
+      "html_url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 389462,
+      "created_at": "2025-11-24",
+      "language": "TypeScript"
+    },
+    "donnemartin/system-design-primer": {
+      "full_name": "donnemartin/system-design-primer",
+      "html_url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "stars": 369475,
+      "created_at": "2017-02-26",
+      "language": "Python"
+    },
+    "nilbuild/developer-roadmap": {
+      "full_name": "nilbuild/developer-roadmap",
+      "html_url": "https://github.com/nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "stars": 366934,
+      "created_at": "2017-03-15",
+      "language": "TypeScript"
+    },
+    "jwasham/coding-interview-university": {
+      "full_name": "jwasham/coding-interview-university",
+      "html_url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": 360766,
+      "created_at": "2016-06-06",
+      "language": ""
+    },
+    "vinta/awesome-python": {
+      "full_name": "vinta/awesome-python",
+      "html_url": "https://github.com/vinta/awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "stars": 320091,
+      "created_at": "2014-06-27",
+      "language": "Python"
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "stars": 318614,
+      "created_at": "2015-06-01",
+      "language": ""
+    },
+    "obra/superpowers": {
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 285408,
+      "created_at": "2025-10-09",
+      "language": "Shell"
+    },
+    "practical-tutorials/project-based-learning": {
+      "full_name": "practical-tutorials/project-based-learning",
+      "html_url": "https://github.com/practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "stars": 283010,
+      "created_at": "2017-04-12",
+      "language": "Python"
+    },
+    "996icu/996.ICU": {
+      "full_name": "996icu/996.ICU",
+      "html_url": "https://github.com/996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "stars": 276973,
+      "created_at": "2019-03-26",
+      "language": ""
+    },
+    "mattpocock/skills": {
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 259853,
+      "created_at": "2026-02-03",
+      "language": "Shell"
+    },
+    "affaan-m/ECC": {
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 256572,
+      "created_at": "2026-01-18",
+      "language": "JavaScript"
+    },
+    "react/react": {
+      "full_name": "react/react",
+      "html_url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 250047,
+      "created_at": "2013-05-24",
+      "language": "JavaScript"
+    },
+    "torvalds/linux": {
+      "full_name": "torvalds/linux",
+      "html_url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "stars": 248308,
+      "created_at": "2011-09-04",
+      "language": "C"
+    },
+    "NousResearch/hermes-agent": {
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 244635,
+      "created_at": "2025-07-22",
+      "language": "Python"
+    },
+    "trimstray/the-book-of-secret-knowledge": {
+      "full_name": "trimstray/the-book-of-secret-knowledge",
+      "html_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "stars": 243250,
+      "created_at": "2018-06-23",
+      "language": ""
+    },
+    "TheAlgorithms/Python": {
+      "full_name": "TheAlgorithms/Python",
+      "html_url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "stars": 224492,
+      "created_at": "2016-07-16",
+      "language": "Python"
+    },
+    "deepseek-ai/deepseek-harness": {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 220661,
+      "created_at": "2026-08-13",
+      "language": "TypeScript"
+    },
+    "vuejs/vue": {
+      "full_name": "vuejs/vue",
+      "html_url": "https://github.com/vuejs/vue",
+      "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+      "stars": 212465,
+      "created_at": "2013-07-29",
+      "language": "TypeScript"
+    },
+    "multica-ai/andrej-karpathy-skills": {
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 212404,
+      "created_at": "2026-01-27",
+      "language": ""
+    },
+    "ossu/computer-science": {
+      "full_name": "ossu/computer-science",
+      "html_url": "https://github.com/ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
+      "stars": 208935,
+      "created_at": "2014-05-04",
+      "language": "HTML"
+    },
+    "anomalyco/opencode": {
+      "full_name": "anomalyco/opencode",
+      "html_url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 206781,
+      "created_at": "2025-04-30",
+      "language": "TypeScript"
+    },
+    "n8n-io/n8n": {
+      "full_name": "n8n-io/n8n",
+      "html_url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 204045,
+      "created_at": "2019-06-22",
+      "language": "TypeScript"
+    },
+    "tensorflow/tensorflow": {
+      "full_name": "tensorflow/tensorflow",
+      "html_url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 199715,
+      "created_at": "2015-11-07",
+      "language": "C++"
+    },
+    "DigitalPlatDev/FreeDomain": {
+      "full_name": "DigitalPlatDev/FreeDomain",
+      "html_url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "Free domain registration and practical DNS learning resources for everyone.",
+      "stars": 198832,
+      "created_at": "2024-05-30",
+      "language": "Markdown"
+    },
+    "trekhleb/javascript-algorithms": {
+      "full_name": "trekhleb/javascript-algorithms",
+      "html_url": "https://github.com/trekhleb/javascript-algorithms",
+      "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196681,
+      "created_at": "2018-03-24",
+      "language": "JavaScript"
+    },
+    "microsoft/vscode": {
+      "full_name": "microsoft/vscode",
+      "html_url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "stars": 192025,
+      "created_at": "2015-09-03",
+      "language": "TypeScript"
+    },
+    "yt-dlp/yt-dlp": {
+      "full_name": "yt-dlp/yt-dlp",
+      "html_url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "stars": 190511,
+      "created_at": "2020-10-26",
+      "language": "Python"
+    },
+    "massgravel/Microsoft-Activation-Scripts": {
+      "full_name": "massgravel/Microsoft-Activation-Scripts",
+      "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+      "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+      "stars": 190236,
+      "created_at": "2020-01-12",
+      "language": "Batchfile"
+    },
+    "ohmyzsh/ohmyzsh": {
+      "full_name": "ohmyzsh/ohmyzsh",
+      "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "stars": 189677,
+      "created_at": "2009-08-28",
+      "language": "Shell"
+    },
+    "Significant-Gravitas/AutoGPT": {
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 187271,
+      "created_at": "2023-03-16",
+      "language": "Python"
+    },
+    "avelino/awesome-go": {
+      "full_name": "avelino/awesome-go",
+      "html_url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "stars": 183853,
+      "created_at": "2014-07-06",
+      "language": "Go"
+    },
+    "microsoft/markitdown": {
+      "full_name": "microsoft/markitdown",
+      "html_url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "stars": 182702,
+      "created_at": "2024-11-13",
+      "language": "Python"
+    },
+    "ollama/ollama": {
+      "full_name": "ollama/ollama",
+      "html_url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "stars": 180699,
+      "created_at": "2023-06-26",
+      "language": "Go"
+    },
+    "firecrawl/firecrawl": {
+      "full_name": "firecrawl/firecrawl",
+      "html_url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "stars": 179252,
+      "created_at": "2024-04-15",
+      "language": "TypeScript"
+    },
+    "flutter/flutter": {
+      "full_name": "flutter/flutter",
+      "html_url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "stars": 178906,
+      "created_at": "2015-03-06",
+      "language": "Dart"
+    },
+    "521xueweihan/HelloGitHub": {
+      "full_name": "521xueweihan/HelloGitHub",
+      "html_url": "https://github.com/521xueweihan/HelloGitHub",
+      "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "stars": 176075,
+      "created_at": "2016-05-04",
+      "language": "Python"
+    },
+    "github/gitignore": {
+      "full_name": "github/gitignore",
+      "html_url": "https://github.com/github/gitignore",
+      "description": "A collection of useful .gitignore templates",
+      "stars": 175720,
+      "created_at": "2010-11-08",
+      "language": ""
+    },
+    "DietrichGebert/ponytail": {
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 135891,
+      "created_at": "2026-06-12",
+      "language": "JavaScript"
+    },
+    "JustVugg/colibri": {
+      "full_name": "JustVugg/colibri",
+      "html_url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": 27721,
+      "created_at": "2026-07-01",
+      "language": "C"
+    },
+    "bilawalsidhu/gods-eye-view": {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 27271,
+      "created_at": "2026-06-22",
+      "language": "JavaScript"
+    },
+    "xai-org/grok-build": {
+      "full_name": "xai-org/grok-build",
+      "html_url": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "stars": 26684,
+      "created_at": "2026-07-14",
+      "language": "Rust"
+    },
+    "anywhere-labs/dsh-desktop": {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "html_url": "https://github.com/anywhere-labs/dsh-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "stars": 25751,
+      "created_at": "2026-08-13",
+      "language": "TypeScript"
+    },
+    "baidu/Unlimited-OCR": {
+      "full_name": "baidu/Unlimited-OCR",
+      "html_url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 25455,
+      "created_at": "2026-06-18",
+      "language": "Python"
+    },
+    "guillaumemeyer/watermarks-remover": {
+      "full_name": "guillaumemeyer/watermarks-remover",
+      "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "stars": 21748,
+      "created_at": "2026-08-11",
+      "language": "Python"
+    },
+    "firecrawl/anydoc": {
+      "full_name": "firecrawl/anydoc",
+      "html_url": "https://github.com/firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "stars": 21192,
+      "created_at": "2026-08-03",
+      "language": "Rust"
+    },
+    "vorssaint/vorssaint-utils": {
+      "full_name": "vorssaint/vorssaint-utils",
+      "html_url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "stars": 18370,
+      "created_at": "2026-06-12",
+      "language": "Swift"
+    },
+    "andrewyng/openworker": {
+      "full_name": "andrewyng/openworker",
+      "html_url": "https://github.com/andrewyng/openworker",
+      "description": "",
+      "stars": 17578,
+      "created_at": "2026-07-20",
+      "language": "Python"
+    },
+    "langchain-ai/openwiki": {
+      "full_name": "langchain-ai/openwiki",
+      "html_url": "https://github.com/langchain-ai/openwiki",
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "stars": 16413,
+      "created_at": "2026-06-22",
+      "language": "TypeScript"
+    },
+    "img2threejs/img2threejs": {
+      "full_name": "img2threejs/img2threejs",
+      "html_url": "https://github.com/img2threejs/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "stars": 15816,
+      "created_at": "2026-07-15",
+      "language": "Python"
+    },
+    "awesome-dsh-plugin/awesome-dsh-plugin": {
+      "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "stars": 15372,
+      "created_at": "2026-08-13",
+      "language": "Python"
+    },
+    "yc-software/qm": {
+      "full_name": "yc-software/qm",
+      "html_url": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work.",
+      "stars": 14827,
+      "created_at": "2026-07-29",
+      "language": "TypeScript"
+    },
+    "Fei-Away/Codex-Dream-Skin": {
+      "full_name": "Fei-Away/Codex-Dream-Skin",
+      "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "stars": 14467,
+      "created_at": "2026-07-15",
+      "language": "JavaScript"
+    },
+    "lidge-jun/opencodex": {
+      "full_name": "lidge-jun/opencodex",
+      "html_url": "https://github.com/lidge-jun/opencodex",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "stars": 14352,
+      "created_at": "2026-06-18",
+      "language": "TypeScript"
+    },
+    "FlashML-org/FreeToken": {
+      "full_name": "FlashML-org/FreeToken",
+      "html_url": "https://github.com/FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "stars": 12491,
+      "created_at": "2026-07-20",
+      "language": "Python"
+    },
+    "pathwaycom/arc-task-gen": {
+      "full_name": "pathwaycom/arc-task-gen",
+      "html_url": "https://github.com/pathwaycom/arc-task-gen",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "stars": 11234,
+      "created_at": "2026-08-04",
+      "language": "Python"
+    },
+    "openai/codex-security": {
+      "full_name": "openai/codex-security",
+      "html_url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 10654,
+      "created_at": "2026-07-13",
+      "language": "TypeScript"
+    },
+    "Yu9191/wloc": {
+      "full_name": "Yu9191/wloc",
+      "html_url": "https://github.com/Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "stars": 10318,
+      "created_at": "2026-06-24",
+      "language": "JavaScript"
+    },
+    "trycompai/crm": {
+      "full_name": "trycompai/crm",
+      "html_url": "https://github.com/trycompai/crm",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "stars": 10267,
+      "created_at": "2026-07-31",
+      "language": "TypeScript"
+    },
+    "oso95/scroll-world": {
+      "full_name": "oso95/scroll-world",
+      "html_url": "https://github.com/oso95/scroll-world",
+      "description": "A skill that turn any brand into a scrollable 3D world landing page",
+      "stars": 9221,
+      "created_at": "2026-07-06",
+      "language": "JavaScript"
+    },
+    "MoonshotAI/Kimi-K3": {
+      "full_name": "MoonshotAI/Kimi-K3",
+      "html_url": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "stars": 8759,
+      "created_at": "2026-07-27",
+      "language": ""
+    },
+    "MiniMax-AI/MiniMax-H3": {
+      "full_name": "MiniMax-AI/MiniMax-H3",
+      "html_url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "description": "",
+      "stars": 8496,
+      "created_at": "2026-07-30",
+      "language": "Python"
+    },
+    "unicity-aos/aos-ce": {
+      "full_name": "unicity-aos/aos-ce",
+      "html_url": "https://github.com/unicity-aos/aos-ce",
+      "description": "AOS Community Edition: the open agent operating system.",
+      "stars": 8460,
+      "created_at": "2026-07-12",
+      "language": "Rust"
+    },
+    "petergyang/no-ai-slop": {
+      "full_name": "petergyang/no-ai-slop",
+      "html_url": "https://github.com/petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "stars": 8442,
+      "created_at": "2026-07-07",
+      "language": "Python"
+    },
+    "pollen-robotics/microduck": {
+      "full_name": "pollen-robotics/microduck",
+      "html_url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "stars": 8121,
+      "created_at": "2026-07-29",
+      "language": "Rust"
+    },
+    "Vincentwei1021/video-shotcraft": {
+      "full_name": "Vincentwei1021/video-shotcraft",
+      "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+      "stars": 8097,
+      "created_at": "2026-07-19",
+      "language": "TypeScript"
+    },
+    "MDX-Tom/gpt-instruct": {
+      "full_name": "MDX-Tom/gpt-instruct",
+      "html_url": "https://github.com/MDX-Tom/gpt-instruct",
+      "description": "A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。",
+      "stars": 8096,
+      "created_at": "2026-07-11",
+      "language": "Python"
+    },
+    "FareedKhan-dev/kimi-k3-in-c": {
+      "full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "stars": 7602,
+      "created_at": "2026-08-01",
+      "language": "C"
+    },
+    "zhu1090093659/dsh-web": {
+      "full_name": "zhu1090093659/dsh-web",
+      "html_url": "https://github.com/zhu1090093659/dsh-web",
+      "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+      "stars": 7425,
+      "created_at": "2026-08-12",
+      "language": "TypeScript"
+    },
+    "trailhq/Graft": {
+      "full_name": "trailhq/Graft",
+      "html_url": "https://github.com/trailhq/Graft",
+      "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+      "stars": 7176,
+      "created_at": "2026-07-03",
+      "language": "TypeScript"
+    },
+    "yjh051108/dsh-routing-suite": {
+      "full_name": "yjh051108/dsh-routing-suite",
+      "html_url": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "stars": 7169,
+      "created_at": "2026-08-14",
+      "language": "JavaScript"
+    },
+    "sapientinc/PRAXIST": {
+      "full_name": "sapientinc/PRAXIST",
+      "html_url": "https://github.com/sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "stars": 6662,
+      "created_at": "2026-08-27",
+      "language": "Python"
+    },
+    "lnkiai/m3e-canvas": {
+      "full_name": "lnkiai/m3e-canvas",
+      "html_url": "https://github.com/lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "stars": 6173,
+      "created_at": "2026-09-02",
+      "language": "TypeScript"
+    },
+    "MengTo/threeui": {
+      "full_name": "MengTo/threeui",
+      "html_url": "https://github.com/MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "stars": 5617,
+      "created_at": "2026-08-21",
+      "language": "HTML"
+    },
+    "dataelement/dsh-desktop": {
+      "full_name": "dataelement/dsh-desktop",
+      "html_url": "https://github.com/dataelement/dsh-desktop",
+      "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
+      "stars": 5416,
+      "created_at": "2026-08-13",
+      "language": "TypeScript"
+    },
+    "s1dashu/ip-as-logo-skill": {
+      "full_name": "s1dashu/ip-as-logo-skill",
+      "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "stars": 5144,
+      "created_at": "2026-08-18",
+      "language": ""
+    },
+    "CopilotKit/OpenBot": {
+      "full_name": "CopilotKit/OpenBot",
+      "html_url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": 4737,
+      "created_at": "2026-08-17",
+      "language": "TypeScript"
+    },
+    "dmmulroy/anti-slop": {
+      "full_name": "dmmulroy/anti-slop",
+      "html_url": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "stars": 4363,
+      "created_at": "2026-08-12",
+      "language": "TypeScript"
+    },
+    "Hisn00w/ASu-skills": {
+      "full_name": "Hisn00w/ASu-skills",
+      "html_url": "https://github.com/Hisn00w/ASu-skills",
+      "description": "🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。",
+      "stars": 4344,
+      "created_at": "2026-08-12",
+      "language": "HTML"
+    },
+    "XiaoDuoYa/codex-with-chatgpt": {
+      "full_name": "XiaoDuoYa/codex-with-chatgpt",
+      "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "stars": 4063,
+      "created_at": "2026-08-28",
+      "language": "TypeScript"
+    },
+    "amagine-ai/Amagine3D": {
+      "full_name": "amagine-ai/Amagine3D",
+      "html_url": "https://github.com/amagine-ai/Amagine3D",
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "stars": 4043,
+      "created_at": "2026-08-19",
+      "language": "Python"
+    },
+    "crmne/fastpotify": {
+      "full_name": "crmne/fastpotify",
+      "html_url": "https://github.com/crmne/fastpotify",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "stars": 3835,
+      "created_at": "2026-08-27",
+      "language": "Rust"
+    },
+    "xiaobright/dsh-anchored-standard": {
+      "full_name": "xiaobright/dsh-anchored-standard",
+      "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "stars": 3817,
+      "created_at": "2026-08-14",
+      "language": "JavaScript"
+    },
+    "dsh-market/dsh-market": {
+      "full_name": "dsh-market/dsh-market",
+      "html_url": "https://github.com/dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "stars": 3695,
+      "created_at": "2026-08-14",
+      "language": "TypeScript"
+    },
+    "rakanki911/DLSS5-Swapper": {
+      "full_name": "rakanki911/DLSS5-Swapper",
+      "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "stars": 3695,
+      "created_at": "2026-08-29",
+      "language": "JavaScript"
+    },
+    "wang2122/sprix-sage-router": {
+      "full_name": "wang2122/sprix-sage-router",
+      "html_url": "https://github.com/wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "stars": 3685,
+      "created_at": "2026-08-18",
+      "language": "Python"
+    },
+    "yetone/cumora": {
+      "full_name": "yetone/cumora",
+      "html_url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "stars": 3568,
+      "created_at": "2026-08-17",
+      "language": "TypeScript"
+    },
+    "EvoMap/AutoResearch": {
+      "full_name": "EvoMap/AutoResearch",
+      "html_url": "https://github.com/EvoMap/AutoResearch",
+      "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
+      "stars": 3564,
+      "created_at": "2026-08-15",
+      "language": "Python"
+    },
+    "b-nnett/grok-bot-0.18-reconstructed": {
+      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+      "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "stars": 3500,
+      "created_at": "2026-08-23",
+      "language": "TypeScript"
+    },
+    "ashemag/human-atlas": {
+      "full_name": "ashemag/human-atlas",
+      "html_url": "https://github.com/ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "stars": 3214,
+      "created_at": "2026-09-05",
+      "language": "TypeScript"
+    },
+    "yanliudesign/mono-color-skill": {
+      "full_name": "yanliudesign/mono-color-skill",
+      "html_url": "https://github.com/yanliudesign/mono-color-skill",
+      "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
+      "stars": 3024,
+      "created_at": "2026-08-19",
+      "language": "Python"
+    },
+    "cordiverse/paper": {
+      "full_name": "cordiverse/paper",
+      "html_url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "stars": 2980,
+      "created_at": "2026-08-13",
+      "language": ""
+    },
+    "ccch1mneyyy/dsh-TUI": {
+      "full_name": "ccch1mneyyy/dsh-TUI",
+      "html_url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "stars": 2971,
+      "created_at": "2026-08-13",
+      "language": "TypeScript"
+    },
+    "vercel-labs/fx": {
+      "full_name": "vercel-labs/fx",
+      "html_url": "https://github.com/vercel-labs/fx",
+      "description": "Unix like coding agent",
+      "stars": 2871,
+      "created_at": "2026-08-11",
+      "language": "Zig"
+    },
+    "anthropics/commerce-agents": {
+      "full_name": "anthropics/commerce-agents",
+      "html_url": "https://github.com/anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "stars": 2744,
+      "created_at": "2026-09-01",
+      "language": "Python"
+    },
+    "ApodexAI/FrontierAgent": {
+      "full_name": "ApodexAI/FrontierAgent",
+      "html_url": "https://github.com/ApodexAI/FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "stars": 2632,
+      "created_at": "2026-08-22",
+      "language": "Python"
+    },
+    "Nanako0129/sepia": {
+      "full_name": "Nanako0129/sepia",
+      "html_url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "stars": 2556,
+      "created_at": "2026-08-28",
+      "language": "Python"
+    },
+    "Player-YN/PawWork_ZhuaZhua": {
+      "full_name": "Player-YN/PawWork_ZhuaZhua",
+      "html_url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "stars": 2546,
+      "created_at": "2026-08-28",
+      "language": "JavaScript"
+    },
+    "tobi/walgit": {
+      "full_name": "tobi/walgit",
+      "html_url": "https://github.com/tobi/walgit",
+      "description": "",
+      "stars": 2485,
+      "created_at": "2026-08-23",
+      "language": "Rust"
+    },
+    "Albert-Weasker/niubigeo": {
+      "full_name": "Albert-Weasker/niubigeo",
+      "html_url": "https://github.com/Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+      "stars": 2353,
+      "created_at": "2026-09-03",
+      "language": "TypeScript"
+    },
+    "nateherkai/scroll-craft": {
+      "full_name": "nateherkai/scroll-craft",
+      "html_url": "https://github.com/nateherkai/scroll-craft",
+      "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
+      "stars": 2344,
+      "created_at": "2026-08-22",
+      "language": "JavaScript"
+    },
+    "MeteorNOX/DeepSeek-Balance-Whale-Widget": {
+      "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "stars": 2183,
+      "created_at": "2026-08-18",
+      "language": "JavaScript"
+    },
+    "Rion-Wu-tech/wechat-intelligence-hub": {
+      "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "stars": 2096,
+      "created_at": "2026-09-04",
+      "language": "Python"
+    },
+    "kacperkapusciak/goldie": {
+      "full_name": "kacperkapusciak/goldie",
+      "html_url": "https://github.com/kacperkapusciak/goldie",
+      "description": "✨ agentic app store previews and screenshots",
+      "stars": 2017,
+      "created_at": "2026-08-24",
+      "language": "TypeScript"
+    },
+    "dsh-tauri-desk/deepseek-harness-desktop": {
+      "full_name": "dsh-tauri-desk/deepseek-harness-desktop",
+      "html_url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+      "stars": 1954,
+      "created_at": "2026-08-14",
+      "language": "TypeScript"
+    },
+    "duty1g/x64dbg-mcp-server": {
+      "full_name": "duty1g/x64dbg-mcp-server",
+      "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "stars": 1938,
+      "created_at": "2026-08-22",
+      "language": "Zig"
+    }
+  }
+}
