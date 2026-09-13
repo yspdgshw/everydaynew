@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-09-12",
-  "repo_count": 110,
-  "week_snapshot": "2026-09-11",
+  "last_update": "2026-09-13",
+  "repo_count": 115,
+  "week_snapshot": "2026-09-12",
   "top": [
     {
       "rank": 1,
       "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 27271,
-      "week_growth": 2687
+      "stars": 30108,
+      "week_growth": 2837
     },
     {
       "rank": 2,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 220661,
-      "week_growth": 1286
+      "stars": 221703,
+      "week_growth": 1042
     },
     {
       "rank": 3,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 135891,
-      "week_growth": 1019
+      "full_name": "JustVugg/colibri",
+      "stars": 28653,
+      "week_growth": 932
     },
     {
       "rank": 4,
-      "full_name": "mattpocock/skills",
-      "stars": 259853,
-      "week_growth": 904
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 136690,
+      "week_growth": 799
     },
     {
       "rank": 5,
-      "full_name": "obra/superpowers",
-      "stars": 285408,
-      "week_growth": 649
+      "full_name": "mattpocock/skills",
+      "stars": 260546,
+      "week_growth": 693
     },
     {
       "rank": 6,
-      "full_name": "affaan-m/ECC",
-      "stars": 256572,
-      "week_growth": 626
+      "full_name": "EvoMap/AutoResearch",
+      "stars": 4192,
+      "week_growth": 628
     },
     {
       "rank": 7,
-      "full_name": "EvoMap/AutoResearch",
-      "stars": 3564,
-      "week_growth": 496
+      "full_name": "affaan-m/ECC",
+      "stars": 257162,
+      "week_growth": 590
     },
     {
       "rank": 8,
-      "full_name": "dataelement/dsh-desktop",
-      "stars": 5416,
-      "week_growth": 429
+      "full_name": "microsoft/markitdown",
+      "stars": 183286,
+      "week_growth": 584
     },
     {
       "rank": 9,
-      "full_name": "anywhere-labs/dsh-desktop",
-      "stars": 25751,
-      "week_growth": 394
+      "full_name": "obra/superpowers",
+      "stars": 285841,
+      "week_growth": 433
     },
     {
       "rank": 10,
-      "full_name": "NousResearch/hermes-agent",
-      "stars": 244635,
-      "week_growth": 389
+      "full_name": "public-apis/public-apis",
+      "stars": 479455,
+      "week_growth": 394
     },
     {
       "rank": 11,
-      "full_name": "public-apis/public-apis",
-      "stars": 479061,
-      "week_growth": 386
+      "full_name": "firecrawl/firecrawl",
+      "stars": 179614,
+      "week_growth": 362
     },
     {
       "rank": 12,
-      "full_name": "amagine-ai/Amagine3D",
-      "stars": 4043,
-      "week_growth": 385
+      "full_name": "dataelement/dsh-desktop",
+      "stars": 5723,
+      "week_growth": 307
     },
     {
       "rank": 13,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 179252,
-      "week_growth": 382
+      "full_name": "rakanki911/DLSS5-Swapper",
+      "stars": 3992,
+      "week_growth": 297
     },
     {
       "rank": 14,
       "full_name": "sindresorhus/awesome",
-      "stars": 505195,
-      "week_growth": 310
+      "stars": 505489,
+      "week_growth": 294
     },
     {
       "rank": 15,
-      "full_name": "anomalyco/opencode",
-      "stars": 206781,
-      "week_growth": 270
+      "full_name": "NousResearch/hermes-agent",
+      "stars": 244925,
+      "week_growth": 290
     },
     {
       "rank": 16,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "stars": 212404,
-      "week_growth": 266
+      "full_name": "amagine-ai/Amagine3D",
+      "stars": 4330,
+      "week_growth": 287
     },
     {
       "rank": 17,
-      "full_name": "lnkiai/m3e-canvas",
-      "stars": 6173,
-      "week_growth": 258
+      "full_name": "petergyang/no-ai-slop",
+      "stars": 8690,
+      "week_growth": 248
     },
     {
       "rank": 18,
-      "full_name": "vorssaint/vorssaint-utils",
-      "stars": 18370,
-      "week_growth": 256
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "stars": 318840,
+      "week_growth": 226
     },
     {
       "rank": 19,
-      "full_name": "yt-dlp/yt-dlp",
-      "stars": 190511,
-      "week_growth": 247
+      "full_name": "anywhere-labs/dsh-desktop",
+      "stars": 25977,
+      "week_growth": 226
     },
     {
       "rank": 20,
-      "full_name": "vinta/awesome-python",
-      "stars": 320091,
-      "week_growth": 242
+      "full_name": "codecrafters-io/build-your-own-x",
+      "stars": 546861,
+      "week_growth": 223
     }
   ]
 }
