@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-09-14",
-  "repo_count": 116,
-  "week_snapshot": "2026-09-13",
+  "last_update": "2026-09-15",
+  "repo_count": 117,
+  "week_snapshot": "2026-09-14",
   "top": [
     {
       "rank": 1,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 32135,
-      "week_growth": 2027
+      "full_name": "JustVugg/colibri",
+      "stars": 32285,
+      "week_growth": 2193
     },
     {
       "rank": 2,
-      "full_name": "JustVugg/colibri",
-      "stars": 30092,
-      "week_growth": 1439
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "stars": 33718,
+      "week_growth": 1583
     },
     {
       "rank": 3,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 222803,
-      "week_growth": 1100
+      "stars": 224219,
+      "week_growth": 1416
     },
     {
       "rank": 4,
-      "full_name": "mattpocock/skills",
-      "stars": 261376,
-      "week_growth": 830
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 138565,
+      "week_growth": 1094
     },
     {
       "rank": 5,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 137471,
-      "week_growth": 781
+      "full_name": "mattpocock/skills",
+      "stars": 262182,
+      "week_growth": 806
     },
     {
       "rank": 6,
       "full_name": "affaan-m/ECC",
-      "stars": 257816,
-      "week_growth": 654
+      "stars": 258449,
+      "week_growth": 633
     },
     {
       "rank": 7,
-      "full_name": "petergyang/no-ai-slop",
-      "stars": 9235,
-      "week_growth": 545
+      "full_name": "obra/superpowers",
+      "stars": 286757,
+      "week_growth": 501
     },
     {
       "rank": 8,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 180046,
-      "week_growth": 432
+      "full_name": "public-apis/public-apis",
+      "stars": 480258,
+      "week_growth": 462
     },
     {
       "rank": 9,
-      "full_name": "obra/superpowers",
-      "stars": 286256,
-      "week_growth": 415
+      "full_name": "firecrawl/firecrawl",
+      "stars": 180484,
+      "week_growth": 438
     },
     {
       "rank": 10,
-      "full_name": "totec448-spec/chat-on-steroids",
-      "stars": 2334,
-      "week_growth": 409
+      "full_name": "microsoft/markitdown",
+      "stars": 184060,
+      "week_growth": 405
     },
     {
       "rank": 11,
-      "full_name": "torvalds/linux",
-      "stars": 248844,
-      "week_growth": 400
+      "full_name": "rakanki911/DLSS5-Swapper",
+      "stars": 4631,
+      "week_growth": 382
     },
     {
       "rank": 12,
-      "full_name": "microsoft/vscode",
-      "stars": 192468,
-      "week_growth": 372
+      "full_name": "petergyang/no-ai-slop",
+      "stars": 9596,
+      "week_growth": 361
     },
     {
       "rank": 13,
-      "full_name": "microsoft/markitdown",
-      "stars": 183655,
-      "week_growth": 369
+      "full_name": "dataelement/dsh-desktop",
+      "stars": 6400,
+      "week_growth": 360
     },
     {
       "rank": 14,
-      "full_name": "public-apis/public-apis",
-      "stars": 479796,
-      "week_growth": 341
+      "full_name": "NousResearch/hermes-agent",
+      "stars": 245546,
+      "week_growth": 346
     },
     {
       "rank": 15,
-      "full_name": "tensorflow/tensorflow",
-      "stars": 200066,
-      "week_growth": 325
+      "full_name": "anywhere-labs/dsh-desktop",
+      "stars": 26569,
+      "week_growth": 339
     },
     {
       "rank": 16,
-      "full_name": "react/react",
-      "stars": 250420,
-      "week_growth": 324
+      "full_name": "sdli1995/dlssg_for_sm86",
+      "stars": 2788,
+      "week_growth": 333
     },
     {
       "rank": 17,
-      "full_name": "sindresorhus/awesome",
-      "stars": 505812,
-      "week_growth": 323
+      "full_name": "trailhq/Graft",
+      "stars": 7835,
+      "week_growth": 327
     },
     {
       "rank": 18,
-      "full_name": "dataelement/dsh-desktop",
-      "stars": 6040,
-      "week_growth": 317
+      "full_name": "sindresorhus/awesome",
+      "stars": 506102,
+      "week_growth": 290
     },
     {
       "rank": 19,
-      "full_name": "vuejs/vue",
-      "stars": 212801,
-      "week_growth": 316
+      "full_name": "totec448-spec/chat-on-steroids",
+      "stars": 2619,
+      "week_growth": 285
     },
     {
       "rank": 20,
-      "full_name": "NousResearch/hermes-agent",
-      "stars": 245200,
-      "week_growth": 275
+      "full_name": "lnkiai/m3e-canvas",
+      "stars": 6809,
+      "week_growth": 268
     }
   ]
 }
