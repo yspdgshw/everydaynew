@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-09-15",
-  "repo_count": 117,
-  "week_snapshot": "2026-09-14",
+  "last_update": "2026-09-16",
+  "repo_count": 122,
+  "week_snapshot": "2026-09-09",
   "top": [
     {
       "rank": 1,
-      "full_name": "JustVugg/colibri",
-      "stars": 32285,
-      "week_growth": 2193
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "stars": 34963,
+      "week_growth": 14348
     },
     {
       "rank": 2,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 33718,
-      "week_growth": 1583
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 225540,
+      "week_growth": 8434
     },
     {
       "rank": 3,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 224219,
-      "week_growth": 1416
+      "full_name": "JustVugg/colibri",
+      "stars": 34000,
+      "week_growth": 6797
     },
     {
       "rank": 4,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 138565,
-      "week_growth": 1094
+      "stars": 139488,
+      "week_growth": 6546
     },
     {
       "rank": 5,
       "full_name": "mattpocock/skills",
-      "stars": 262182,
-      "week_growth": 806
+      "stars": 262949,
+      "week_growth": 5448
     },
     {
       "rank": 6,
       "full_name": "affaan-m/ECC",
-      "stars": 258449,
-      "week_growth": 633
+      "stars": 259405,
+      "week_growth": 4621
     },
     {
       "rank": 7,
       "full_name": "obra/superpowers",
-      "stars": 286757,
-      "week_growth": 501
+      "stars": 287219,
+      "week_growth": 3482
     },
     {
       "rank": 8,
       "full_name": "public-apis/public-apis",
-      "stars": 480258,
-      "week_growth": 462
+      "stars": 480650,
+      "week_growth": 2742
     },
     {
       "rank": 9,
       "full_name": "firecrawl/firecrawl",
-      "stars": 180484,
-      "week_growth": 438
+      "stars": 180933,
+      "week_growth": 2725
     },
     {
       "rank": 10,
       "full_name": "microsoft/markitdown",
-      "stars": 184060,
-      "week_growth": 405
+      "stars": 184476,
+      "week_growth": 2386
     },
     {
       "rank": 11,
-      "full_name": "rakanki911/DLSS5-Swapper",
-      "stars": 4631,
-      "week_growth": 382
+      "full_name": "NousResearch/hermes-agent",
+      "stars": 245909,
+      "week_growth": 2226
     },
     {
       "rank": 12,
       "full_name": "petergyang/no-ai-slop",
-      "stars": 9596,
-      "week_growth": 361
+      "stars": 9900,
+      "week_growth": 2187
     },
     {
       "rank": 13,
-      "full_name": "dataelement/dsh-desktop",
-      "stars": 6400,
-      "week_growth": 360
+      "full_name": "anywhere-labs/dsh-desktop",
+      "stars": 26853,
+      "week_growth": 2122
     },
     {
       "rank": 14,
-      "full_name": "NousResearch/hermes-agent",
-      "stars": 245546,
-      "week_growth": 346
+      "full_name": "dataelement/dsh-desktop",
+      "stars": 6731,
+      "week_growth": 2065
     },
     {
       "rank": 15,
-      "full_name": "anywhere-labs/dsh-desktop",
-      "stars": 26569,
-      "week_growth": 339
+      "full_name": "sindresorhus/awesome",
+      "stars": 506439,
+      "week_growth": 2008
     },
     {
       "rank": 16,
-      "full_name": "sdli1995/dlssg_for_sm86",
-      "stars": 2788,
-      "week_growth": 333
+      "full_name": "amagine-ai/Amagine3D",
+      "stars": 4926,
+      "week_growth": 1955
     },
     {
       "rank": 17,
-      "full_name": "trailhq/Graft",
-      "stars": 7835,
-      "week_growth": 327
+      "full_name": "rakanki911/DLSS5-Swapper",
+      "stars": 5061,
+      "week_growth": 1911
     },
     {
       "rank": 18,
-      "full_name": "sindresorhus/awesome",
-      "stars": 506102,
-      "week_growth": 290
+      "full_name": "vorssaint/vorssaint-utils",
+      "stars": 19275,
+      "week_growth": 1679
     },
     {
       "rank": 19,
-      "full_name": "totec448-spec/chat-on-steroids",
-      "stars": 2619,
-      "week_growth": 285
+      "full_name": "anomalyco/opencode",
+      "stars": 207705,
+      "week_growth": 1632
     },
     {
       "rank": 20,
-      "full_name": "lnkiai/m3e-canvas",
-      "stars": 6809,
-      "week_growth": 268
+      "full_name": "torvalds/linux",
+      "stars": 249147,
+      "week_growth": 1528
     }
   ]
 }
