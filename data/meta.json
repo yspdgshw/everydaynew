@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-09-16",
-  "repo_count": 122,
-  "week_snapshot": "2026-09-09",
+  "last_update": "2026-09-17",
+  "repo_count": 125,
+  "week_snapshot": "2026-09-10",
   "top": [
     {
       "rank": 1,
       "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 34963,
-      "week_growth": 14348
+      "stars": 36096,
+      "week_growth": 13758
     },
     {
       "rank": 2,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 225540,
-      "week_growth": 8434
+      "stars": 226843,
+      "week_growth": 8207
     },
     {
       "rank": 3,
       "full_name": "JustVugg/colibri",
-      "stars": 34000,
-      "week_growth": 6797
+      "stars": 35125,
+      "week_growth": 7827
     },
     {
       "rank": 4,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 139488,
-      "week_growth": 6546
+      "stars": 140492,
+      "week_growth": 6259
     },
     {
       "rank": 5,
       "full_name": "mattpocock/skills",
-      "stars": 262949,
-      "week_growth": 5448
+      "stars": 263706,
+      "week_growth": 5300
     },
     {
       "rank": 6,
       "full_name": "affaan-m/ECC",
-      "stars": 259405,
-      "week_growth": 4621
+      "stars": 260391,
+      "week_growth": 4817
     },
     {
       "rank": 7,
       "full_name": "obra/superpowers",
-      "stars": 287219,
-      "week_growth": 3482
+      "stars": 287672,
+      "week_growth": 3260
     },
     {
       "rank": 8,
-      "full_name": "public-apis/public-apis",
-      "stars": 480650,
-      "week_growth": 2742
+      "full_name": "firecrawl/firecrawl",
+      "stars": 181345,
+      "week_growth": 2718
     },
     {
       "rank": 9,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 180933,
-      "week_growth": 2725
+      "full_name": "public-apis/public-apis",
+      "stars": 480972,
+      "week_growth": 2588
     },
     {
       "rank": 10,
       "full_name": "microsoft/markitdown",
-      "stars": 184476,
-      "week_growth": 2386
+      "stars": 184880,
+      "week_growth": 2546
     },
     {
       "rank": 11,
       "full_name": "NousResearch/hermes-agent",
-      "stars": 245909,
-      "week_growth": 2226
+      "stars": 246245,
+      "week_growth": 2175
     },
     {
       "rank": 12,
-      "full_name": "petergyang/no-ai-slop",
-      "stars": 9900,
-      "week_growth": 2187
+      "full_name": "sindresorhus/awesome",
+      "stars": 506834,
+      "week_growth": 2139
     },
     {
       "rank": 13,
-      "full_name": "anywhere-labs/dsh-desktop",
-      "stars": 26853,
-      "week_growth": 2122
+      "full_name": "petergyang/no-ai-slop",
+      "stars": 10168,
+      "week_growth": 2132
     },
     {
       "rank": 14,
       "full_name": "dataelement/dsh-desktop",
-      "stars": 6731,
-      "week_growth": 2065
+      "stars": 7012,
+      "week_growth": 2129
     },
     {
       "rank": 15,
-      "full_name": "sindresorhus/awesome",
-      "stars": 506439,
-      "week_growth": 2008
+      "full_name": "anywhere-labs/dsh-desktop",
+      "stars": 27127,
+      "week_growth": 1990
     },
     {
       "rank": 16,
-      "full_name": "amagine-ai/Amagine3D",
-      "stars": 4926,
-      "week_growth": 1955
+      "full_name": "rakanki911/DLSS5-Swapper",
+      "stars": 5346,
+      "week_growth": 1964
     },
     {
       "rank": 17,
-      "full_name": "rakanki911/DLSS5-Swapper",
-      "stars": 5061,
-      "week_growth": 1911
+      "full_name": "amagine-ai/Amagine3D",
+      "stars": 5081,
+      "week_growth": 1659
     },
     {
       "rank": 18,
-      "full_name": "vorssaint/vorssaint-utils",
-      "stars": 19275,
-      "week_growth": 1679
+      "full_name": "anomalyco/opencode",
+      "stars": 207952,
+      "week_growth": 1636
     },
     {
       "rank": 19,
-      "full_name": "anomalyco/opencode",
-      "stars": 207705,
-      "week_growth": 1632
+      "full_name": "torvalds/linux",
+      "stars": 249286,
+      "week_growth": 1597
     },
     {
       "rank": 20,
-      "full_name": "torvalds/linux",
-      "stars": 249147,
-      "week_growth": 1528
+      "full_name": "yt-dlp/yt-dlp",
+      "stars": 191656,
+      "week_growth": 1562
     }
   ]
 }
