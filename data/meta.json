@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-09-22",
-  "repo_count": 139,
-  "week_snapshot": "2026-09-15",
+  "last_update": "2026-09-23",
+  "repo_count": 141,
+  "week_snapshot": "2026-09-16",
   "top": [
     {
       "rank": 1,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 232488,
-      "week_growth": 8269
+      "stars": 233602,
+      "week_growth": 8062
     },
     {
       "rank": 2,
       "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 40703,
-      "week_growth": 6985
+      "stars": 41351,
+      "week_growth": 6388
     },
     {
       "rank": 3,
       "full_name": "affaan-m/ECC",
-      "stars": 264804,
-      "week_growth": 6355
+      "stars": 265522,
+      "week_growth": 6117
     },
     {
       "rank": 4,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 143803,
-      "week_growth": 5238
+      "stars": 144492,
+      "week_growth": 5004
     },
     {
       "rank": 5,
       "full_name": "mattpocock/skills",
-      "stars": 267232,
-      "week_growth": 5050
+      "stars": 267927,
+      "week_growth": 4978
     },
     {
       "rank": 6,
-      "full_name": "JustVugg/colibri",
-      "stars": 36886,
-      "week_growth": 4601
+      "full_name": "miuuyy/codex-chatgpt-web",
+      "stars": 10707,
+      "week_growth": 3214
     },
     {
       "rank": 7,
-      "full_name": "obra/superpowers",
-      "stars": 289768,
-      "week_growth": 3011
+      "full_name": "JustVugg/colibri",
+      "stars": 37170,
+      "week_growth": 3170
     },
     {
       "rank": 8,
-      "full_name": "sindresorhus/awesome",
-      "stars": 508691,
-      "week_growth": 2589
+      "full_name": "obra/superpowers",
+      "stars": 290255,
+      "week_growth": 3036
     },
     {
       "rank": 9,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 183019,
-      "week_growth": 2535
+      "full_name": "sindresorhus/awesome",
+      "stars": 509067,
+      "week_growth": 2628
     },
     {
       "rank": 10,
-      "full_name": "Albert-Weasker/niubigeo",
-      "stars": 4760,
-      "week_growth": 2345
+      "full_name": "firecrawl/firecrawl",
+      "stars": 183475,
+      "week_growth": 2542
     },
     {
       "rank": 11,
-      "full_name": "NousResearch/hermes-agent",
-      "stars": 247816,
-      "week_growth": 2270
+      "full_name": "Albert-Weasker/niubigeo",
+      "stars": 4834,
+      "week_growth": 2410
     },
     {
       "rank": 12,
-      "full_name": "bojieli/ai-infra-book",
-      "stars": 4903,
-      "week_growth": 2249
+      "full_name": "NousResearch/hermes-agent",
+      "stars": 248146,
+      "week_growth": 2237
     },
     {
       "rank": 13,
-      "full_name": "microsoft/markitdown",
-      "stars": 186234,
-      "week_growth": 2174
+      "full_name": "Human-Agent-Society/reef",
+      "stars": 4120,
+      "week_growth": 2128
     },
     {
       "rank": 14,
-      "full_name": "dataelement/dsh-desktop",
-      "stars": 8296,
-      "week_growth": 1896
+      "full_name": "microsoft/markitdown",
+      "stars": 186490,
+      "week_growth": 2014
     },
     {
       "rank": 15,
-      "full_name": "public-apis/public-apis",
-      "stars": 482103,
-      "week_growth": 1845
+      "full_name": "XiaoDuoYa/codex-with-chatgpt",
+      "stars": 6307,
+      "week_growth": 1811
     },
     {
       "rank": 16,
-      "full_name": "anywhere-labs/dsh-desktop",
-      "stars": 28319,
-      "week_growth": 1750
+      "full_name": "dataelement/dsh-desktop",
+      "stars": 8495,
+      "week_growth": 1764
     },
     {
       "rank": 17,
       "full_name": "anomalyco/opencode",
-      "stars": 209184,
-      "week_growth": 1747
+      "stars": 209461,
+      "week_growth": 1756
     },
     {
       "rank": 18,
-      "full_name": "rakanki911/DLSS5-Swapper",
-      "stars": 6229,
-      "week_growth": 1598
+      "full_name": "public-apis/public-apis",
+      "stars": 482376,
+      "week_growth": 1726
     },
     {
       "rank": 19,
-      "full_name": "awesome-selfhosted/awesome-selfhosted",
-      "stars": 320853,
-      "week_growth": 1562
+      "full_name": "anywhere-labs/dsh-desktop",
+      "stars": 28554,
+      "week_growth": 1701
     },
     {
       "rank": 20,
-      "full_name": "XiaoDuoYa/codex-with-chatgpt",
-      "stars": 5820,
-      "week_growth": 1507
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "stars": 321108,
+      "week_growth": 1598
     }
   ]
 }
