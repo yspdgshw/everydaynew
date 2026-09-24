@@ -1,218 +1,218 @@
-## 2026-09-23 本周最佳开源项目🔝:deepseek-harness
+## 2026-09-24 本周最佳开源项目🔝:HowToLiveBetter
 
 > 个人视野雷达：按近 7 日 Star 增长自动更新（GitHub Actions）
 
-> 🏆2026.09.23周榜最佳项目前3名
+> 🏆2026.09.24周榜最佳项目前3名
 
-* **榜单增长：第1名: deepseek-ai/deepseek-harness **
+* **榜单增长：第1名: eternity4719/HowToLiveBetter **
+    * 开源地址：<https://github.com/eternity4719/HowToLiveBetter>
+    * 📅 开源时间：2026-09-07
+    * ⭐ 总星标数量：13150⭐
+    * 🔺周Star增长量：10794⭐
+    * 📝 项目描述： 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+
+* **榜单增长：第2名: deepseek-ai/deepseek-harness **
     * 开源地址：<https://github.com/deepseek-ai/deepseek-harness>
     * 📅 开源时间：2026-08-13
-    * ⭐ 总星标数量：233602⭐
-    * 🔺周Star增长量：8062⭐
+    * ⭐ 总星标数量：234438⭐
+    * 🔺周Star增长量：7595⭐
     * 📝 项目描述： DeepSeek Harness: Everything is a Plugin.
 
-* **榜单增长：第2名: bilawalsidhu/gods-eye-view **
+* **榜单增长：第3名: bilawalsidhu/gods-eye-view **
     * 开源地址：<https://github.com/bilawalsidhu/gods-eye-view>
     * 📅 开源时间：2026-06-22
-    * ⭐ 总星标数量：41351⭐
-    * 🔺周Star增长量：6388⭐
+    * ⭐ 总星标数量：41965⭐
+    * 🔺周Star增长量：5869⭐
     * 📝 项目描述： A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-* **榜单增长：第3名: affaan-m/ECC **
-    * 开源地址：<https://github.com/affaan-m/ECC>
-    * 📅 开源时间：2026-01-18
-    * ⭐ 总星标数量：265522⭐
-    * 🔺周Star增长量：6117⭐
-    * 📝 项目描述： The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-## 2026.09.17-2026.09.23 周榜排行
+## 2026.09.18-2026.09.24 周榜排行
 
 | 排名 | 项目名 | Star⭐ | 上周增长量 |
 | -- | --- | --- | --- |
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 233.6k | 🔺8062 |
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 41.4k | 🔺6388 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 265.5k | 🔺6117 |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 144.5k | 🔺5004 |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | 267.9k | 🔺4978 |
-| 6 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 10.7k | 🔺3214 |
-| 7 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 37.2k | 🔺3170 |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | 290.3k | 🔺3036 |
-| 9 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 509.1k | 🔺2628 |
-| 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 183.5k | 🔺2542 |
-| 11 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 4.8k | 🔺2410 |
-| 12 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 248.1k | 🔺2237 |
-| 13 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | 4.1k | 🔺2128 |
-| 14 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 186.5k | 🔺2014 |
-| 15 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 6.3k | 🔺1811 |
-| 16 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 8.5k | 🔺1764 |
-| 17 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 209.5k | 🔺1756 |
-| 18 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 482.4k | 🔺1726 |
-| 19 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 28.6k | 🔺1701 |
-| 20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 321.1k | 🔺1598 |
+| 1 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 13.2k | 🔺10794 |
+| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 234.4k | 🔺7595 |
+| 3 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 42k | 🔺5869 |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 266.2k | 🔺5844 |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | 268.6k | 🔺4846 |
+| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 145.1k | 🔺4583 |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | 290.8k | 🔺3081 |
+| 8 | [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | 10.9k | 🔺2839 |
+| 9 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 509.5k | 🔺2673 |
+| 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 183.9k | 🔺2568 |
+| 11 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 4.8k | 🔺2340 |
+| 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 37.4k | 🔺2246 |
+| 13 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 248.4k | 🔺2200 |
+| 14 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 9.8k | 🔺1987 |
+| 15 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 8.8k | 🔺1812 |
+| 16 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | 4.4k | 🔺1798 |
+| 17 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 186.7k | 🔺1790 |
+| 18 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 209.7k | 🔺1747 |
+| 19 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 6.5k | 🔺1624 |
+| 20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 482.6k | 🔺1612 |
 
-**注**: 周增长对比快照日期：2026-09-16（约 7 天前）；候选库约 141 个；每天 UTC 00:00（北京时间 08:00）自动更新。
+**注**: 周增长对比快照日期：2026-09-17（约 7 天前）；候选库约 141 个；每天 UTC 00:00（北京时间 08:00）自动更新。
 
-## 2026.09.17-2026.09.23 周榜项目详情
+## 2026.09.18-2026.09.24 周榜项目详情
 
-### 1. <https://github.com/deepseek-ai/deepseek-harness>
+### 1. <https://github.com/eternity4719/HowToLiveBetter>
 
-* ⭐ 总星标数量：233.6k
-* 🔺 上周增长数量：8062⭐
-* 🔺 上月增长数量：1114⭐
+* ⭐ 总星标数量：13.2k
+* 🔺 上周增长数量：10794⭐
+* 🔺 上月增长数量：733⭐
+* 📅 开源时间：2026-09-07
+* 📝 项目描述：按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+
+### 2. <https://github.com/deepseek-ai/deepseek-harness>
+
+* ⭐ 总星标数量：234.4k
+* 🔺 上周增长数量：7595⭐
+* 🔺 上月增长数量：836⭐
 * 📅 开源时间：2026-08-13
 * 📝 项目描述：DeepSeek Harness: Everything is a Plugin.
 
-### 2. <https://github.com/bilawalsidhu/gods-eye-view>
+### 3. <https://github.com/bilawalsidhu/gods-eye-view>
 
-* ⭐ 总星标数量：41.4k
-* 🔺 上周增长数量：6388⭐
-* 🔺 上月增长数量：648⭐
+* ⭐ 总星标数量：42k
+* 🔺 上周增长数量：5869⭐
+* 🔺 上月增长数量：614⭐
 * 📅 开源时间：2026-06-22
 * 📝 项目描述：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-### 3. <https://github.com/affaan-m/ECC>
+### 4. <https://github.com/affaan-m/ECC>
 
-* ⭐ 总星标数量：265.5k
-* 🔺 上周增长数量：6117⭐
-* 🔺 上月增长数量：718⭐
+* ⭐ 总星标数量：266.2k
+* 🔺 上周增长数量：5844⭐
+* 🔺 上月增长数量：713⭐
 * 📅 开源时间：2026-01-18
 * 📝 项目描述：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### 4. <https://github.com/DietrichGebert/ponytail>
-
-* ⭐ 总星标数量：144.5k
-* 🔺 上周增长数量：5004⭐
-* 🔺 上月增长数量：689⭐
-* 📅 开源时间：2026-06-12
-* 📝 项目描述：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
 ### 5. <https://github.com/mattpocock/skills>
 
-* ⭐ 总星标数量：267.9k
-* 🔺 上周增长数量：4978⭐
-* 🔺 上月增长数量：695⭐
+* ⭐ 总星标数量：268.6k
+* 🔺 上周增长数量：4846⭐
+* 🔺 上月增长数量：625⭐
 * 📅 开源时间：2026-02-03
 * 📝 项目描述：Skills for Real Engineers. Straight from my .agents directory.
 
-### 6. <https://github.com/miuuyy/codex-chatgpt-web>
+### 6. <https://github.com/DietrichGebert/ponytail>
 
-* ⭐ 总星标数量：10.7k
-* 🔺 上周增长数量：3214⭐
-* 🔺 上月增长数量：351⭐
-* 📅 开源时间：2026-07-26
-* 📝 项目描述：Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
+* ⭐ 总星标数量：145.1k
+* 🔺 上周增长数量：4583⭐
+* 🔺 上月增长数量：583⭐
+* 📅 开源时间：2026-06-12
+* 📝 项目描述：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-### 7. <https://github.com/JustVugg/colibri>
+### 7. <https://github.com/obra/superpowers>
 
-* ⭐ 总星标数量：37.2k
-* 🔺 上周增长数量：3170⭐
-* 🔺 上月增长数量：284⭐
-* 📅 开源时间：2026-07-01
-* 📝 项目描述：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-
-### 8. <https://github.com/obra/superpowers>
-
-* ⭐ 总星标数量：290.3k
-* 🔺 上周增长数量：3036⭐
-* 🔺 上月增长数量：487⭐
+* ⭐ 总星标数量：290.8k
+* 🔺 上周增长数量：3081⭐
+* 🔺 上月增长数量：498⭐
 * 📅 开源时间：2025-10-09
 * 📝 项目描述：An agentic skills framework & software development methodology that works.
 
+### 8. <https://github.com/miuuyy/codex-chatgpt-web>
+
+* ⭐ 总星标数量：10.9k
+* 🔺 上周增长数量：2839⭐
+* 🔺 上月增长数量：214⭐
+* 📅 开源时间：2026-07-26
+* 📝 项目描述：Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
+
 ### 9. <https://github.com/sindresorhus/awesome>
 
-* ⭐ 总星标数量：509.1k
-* 🔺 上周增长数量：2628⭐
-* 🔺 上月增长数量：376⭐
+* ⭐ 总星标数量：509.5k
+* 🔺 上周增长数量：2673⭐
+* 🔺 上月增长数量：440⭐
 * 📅 开源时间：2014-07-11
 * 📝 项目描述：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 
 ### 10. <https://github.com/firecrawl/firecrawl>
 
-* ⭐ 总星标数量：183.5k
-* 🔺 上周增长数量：2542⭐
-* 🔺 上月增长数量：456⭐
+* ⭐ 总星标数量：183.9k
+* 🔺 上周增长数量：2568⭐
+* 🔺 上月增长数量：438⭐
 * 📅 开源时间：2024-04-15
 * 📝 项目描述：The web data API to search, scrape, and interact at scale. 🔥
 
 ### 11. <https://github.com/Albert-Weasker/niubigeo>
 
 * ⭐ 总星标数量：4.8k
-* 🔺 上周增长数量：2410⭐
-* 🔺 上月增长数量：74⭐
+* 🔺 上周增长数量：2340⭐
+* 🔺 上月增长数量：5⭐
 * 📅 开源时间：2026-09-03
 * 📝 项目描述：Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing
 
-### 12. <https://github.com/NousResearch/hermes-agent>
+### 12. <https://github.com/JustVugg/colibri>
 
-* ⭐ 总星标数量：248.1k
-* 🔺 上周增长数量：2237⭐
-* 🔺 上月增长数量：330⭐
+* ⭐ 总星标数量：37.4k
+* 🔺 上周增长数量：2246⭐
+* 🔺 上月增长数量：201⭐
+* 📅 开源时间：2026-07-01
+* 📝 项目描述：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+### 13. <https://github.com/NousResearch/hermes-agent>
+
+* ⭐ 总星标数量：248.4k
+* 🔺 上周增长数量：2200⭐
+* 🔺 上月增长数量：299⭐
 * 📅 开源时间：2025-07-22
 * 📝 项目描述：The agent that grows with you
 
-### 13. <https://github.com/Human-Agent-Society/reef>
+### 14. <https://github.com/deeplethe/utopia>
 
-* ⭐ 总星标数量：4.1k
-* 🔺 上周增长数量：2128⭐
-* 🔺 上月增长数量：175⭐
-* 📅 开源时间：2026-08-31
-* 📝 项目描述：Continual learning infra for self-improving agents
+* ⭐ 总星标数量：9.8k
+* 🔺 上周增长数量：1987⭐
+* 🔺 上月增长数量：91⭐
+* 📅 开源时间：2026-08-07
+* 📝 项目描述：World's first open-source enterprise world model.
 
-### 14. <https://github.com/microsoft/markitdown>
+### 15. <https://github.com/dataelement/dsh-desktop>
 
-* ⭐ 总星标数量：186.5k
-* 🔺 上周增长数量：2014⭐
-* 🔺 上月增长数量：256⭐
-* 📅 开源时间：2024-11-13
-* 📝 项目描述：Python tool for converting files and office documents to Markdown.
-
-### 15. <https://github.com/XiaoDuoYa/codex-with-chatgpt>
-
-* ⭐ 总星标数量：6.3k
-* 🔺 上周增长数量：1811⭐
-* 🔺 上月增长数量：487⭐
-* 📅 开源时间：2026-08-28
-* 📝 项目描述：ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-
-### 16. <https://github.com/dataelement/dsh-desktop>
-
-* ⭐ 总星标数量：8.5k
-* 🔺 上周增长数量：1764⭐
-* 🔺 上月增长数量：199⭐
+* ⭐ 总星标数量：8.8k
+* 🔺 上周增长数量：1812⭐
+* 🔺 上月增长数量：329⭐
 * 📅 开源时间：2026-08-13
 * 📝 项目描述：DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 
-### 17. <https://github.com/anomalyco/opencode>
+### 16. <https://github.com/Human-Agent-Society/reef>
 
-* ⭐ 总星标数量：209.5k
-* 🔺 上周增长数量：1756⭐
-* 🔺 上月增长数量：277⭐
+* ⭐ 总星标数量：4.4k
+* 🔺 上周增长数量：1798⭐
+* 🔺 上月增长数量：269⭐
+* 📅 开源时间：2026-08-31
+* 📝 项目描述：Continual learning infra for self-improving agents
+
+### 17. <https://github.com/microsoft/markitdown>
+
+* ⭐ 总星标数量：186.7k
+* 🔺 上周增长数量：1790⭐
+* 🔺 上月增长数量：180⭐
+* 📅 开源时间：2024-11-13
+* 📝 项目描述：Python tool for converting files and office documents to Markdown.
+
+### 18. <https://github.com/anomalyco/opencode>
+
+* ⭐ 总星标数量：209.7k
+* 🔺 上周增长数量：1747⭐
+* 🔺 上月增长数量：238⭐
 * 📅 开源时间：2025-04-30
 * 📝 项目描述：The open source coding agent.
 
-### 18. <https://github.com/public-apis/public-apis>
+### 19. <https://github.com/XiaoDuoYa/codex-with-chatgpt>
 
-* ⭐ 总星标数量：482.4k
-* 🔺 上周增长数量：1726⭐
-* 🔺 上月增长数量：273⭐
+* ⭐ 总星标数量：6.5k
+* 🔺 上周增长数量：1624⭐
+* 🔺 上月增长数量：231⭐
+* 📅 开源时间：2026-08-28
+* 📝 项目描述：ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+
+### 20. <https://github.com/public-apis/public-apis>
+
+* ⭐ 总星标数量：482.6k
+* 🔺 上周增长数量：1612⭐
+* 🔺 上月增长数量：208⭐
 * 📅 开源时间：2016-03-20
 * 📝 项目描述：A collective list of free APIs
-
-### 19. <https://github.com/anywhere-labs/dsh-desktop>
-
-* ⭐ 总星标数量：28.6k
-* 🔺 上周增长数量：1701⭐
-* 🔺 上月增长数量：235⭐
-* 📅 开源时间：2026-08-13
-* 📝 项目描述：为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-
-### 20. <https://github.com/awesome-selfhosted/awesome-selfhosted>
-
-* ⭐ 总星标数量：321.1k
-* 🔺 上周增长数量：1598⭐
-* 🔺 上月增长数量：255⭐
-* 📅 开源时间：2015-06-01
-* 📝 项目描述：A list of Free Software network services and web applications which can be hosted on your own servers
 
 ---
 
