@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-09-25",
-  "repo_count": 142,
-  "week_snapshot": "2026-09-18",
+  "last_update": "2026-09-26",
+  "repo_count": 145,
+  "week_snapshot": "2026-09-19",
   "top": [
     {
       "rank": 1,
       "full_name": "browser-use/jev-ultrafast",
-      "stars": 19886,
-      "week_growth": 17324
+      "stars": 20285,
+      "week_growth": 14529
     },
     {
       "rank": 2,
       "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 14410,
-      "week_growth": 10596
+      "stars": 16388,
+      "week_growth": 11217
     },
     {
       "rank": 3,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 235284,
-      "week_growth": 7152
+      "stars": 236133,
+      "week_growth": 6903
     },
     {
       "rank": 4,
       "full_name": "hypit-ai/hypit",
-      "stars": 16153,
-      "week_growth": 7093
+      "stars": 16038,
+      "week_growth": 5853
     },
     {
       "rank": 5,
       "full_name": "affaan-m/ECC",
-      "stars": 266988,
-      "week_growth": 5735
+      "stars": 267556,
+      "week_growth": 5423
     },
     {
       "rank": 6,
       "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 42528,
-      "week_growth": 5359
+      "stars": 43126,
+      "week_growth": 5224
     },
     {
       "rank": 7,
       "full_name": "mattpocock/skills",
-      "stars": 269172,
-      "week_growth": 4580
+      "stars": 269774,
+      "week_growth": 4457
     },
     {
       "rank": 8,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 145591,
-      "week_growth": 4177
+      "stars": 146040,
+      "week_growth": 3968
     },
     {
       "rank": 9,
-      "full_name": "obra/superpowers",
-      "stars": 291266,
-      "week_growth": 3087
+      "full_name": "tamaratran/fast-jev-compaction",
+      "stars": 6873,
+      "week_growth": 3510
     },
     {
       "rank": 10,
-      "full_name": "sindresorhus/awesome",
-      "stars": 510030,
-      "week_growth": 2819
+      "full_name": "obra/superpowers",
+      "stars": 291702,
+      "week_growth": 3136
     },
     {
       "rank": 11,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 184362,
-      "week_growth": 2638
+      "full_name": "sindresorhus/awesome",
+      "stars": 510515,
+      "week_growth": 2942
     },
     {
       "rank": 12,
-      "full_name": "miuuyy/codex-chatgpt-web",
-      "stars": 11324,
-      "week_growth": 2367
+      "full_name": "firecrawl/firecrawl",
+      "stars": 184777,
+      "week_growth": 2739
     },
     {
       "rank": 13,
       "full_name": "Albert-Weasker/niubigeo",
-      "stars": 4844,
-      "week_growth": 2332
+      "stars": 4847,
+      "week_growth": 2329
     },
     {
       "rank": 14,
-      "full_name": "NousResearch/hermes-agent",
-      "stars": 248760,
-      "week_growth": 2164
+      "full_name": "miuuyy/codex-chatgpt-web",
+      "stars": 11629,
+      "week_growth": 2213
     },
     {
       "rank": 15,
-      "full_name": "deeplethe/utopia",
-      "stars": 10066,
-      "week_growth": 2084
+      "full_name": "NousResearch/hermes-agent",
+      "stars": 249001,
+      "week_growth": 2062
     },
     {
       "rank": 16,
       "full_name": "dataelement/dsh-desktop",
-      "stars": 9197,
-      "week_growth": 1940
+      "stars": 9325,
+      "week_growth": 1835
     },
     {
       "rank": 17,
-      "full_name": "JustVugg/colibri",
-      "stars": 37558,
-      "week_growth": 1757
+      "full_name": "public-apis/public-apis",
+      "stars": 483275,
+      "week_growth": 1819
     },
     {
       "rank": 18,
-      "full_name": "microsoft/markitdown",
-      "stars": 186872,
-      "week_growth": 1704
+      "full_name": "Human-Agent-Society/reef",
+      "stars": 5239,
+      "week_growth": 1677
     },
     {
       "rank": 19,
-      "full_name": "public-apis/public-apis",
-      "stars": 482947,
-      "week_growth": 1693
+      "full_name": "microsoft/markitdown",
+      "stars": 187061,
+      "week_growth": 1620
     },
     {
       "rank": 20,
-      "full_name": "Human-Agent-Society/reef",
-      "stars": 5052,
-      "week_growth": 1688
+      "full_name": "yt-dlp/yt-dlp",
+      "stars": 193619,
+      "week_growth": 1613
     }
   ]
 }
