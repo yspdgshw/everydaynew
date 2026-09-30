@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-09-29",
-  "repo_count": 150,
-  "week_snapshot": "2026-09-22",
+  "last_update": "2026-09-30",
+  "repo_count": 152,
+  "week_snapshot": "2026-09-23",
   "top": [
     {
       "rank": 1,
-      "full_name": "NandhaKishorM/laya",
-      "stars": 27844,
-      "week_growth": 16652
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 29257,
+      "week_growth": 16840
     },
     {
       "rank": 2,
-      "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 25181,
-      "week_growth": 13763
+      "full_name": "NandhaKishorM/laya",
+      "stars": 28725,
+      "week_growth": 11564
     },
     {
       "rank": 3,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 238976,
-      "week_growth": 6488
+      "stars": 240324,
+      "week_growth": 6722
     },
     {
       "rank": 4,
-      "full_name": "jaredpalmer/kev",
-      "stars": 7685,
-      "week_growth": 5106
+      "full_name": "mattpocock/skills",
+      "stars": 272210,
+      "week_growth": 4283
     },
     {
       "rank": 5,
-      "full_name": "browser-use/jev-ultrafast",
-      "stars": 21204,
-      "week_growth": 5044
+      "full_name": "affaan-m/ECC",
+      "stars": 269706,
+      "week_growth": 4184
     },
     {
       "rank": 6,
-      "full_name": "hypit-ai/hypit",
-      "stars": 17282,
-      "week_growth": 4440
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 148323,
+      "week_growth": 3831
     },
     {
       "rank": 7,
-      "full_name": "affaan-m/ECC",
-      "stars": 269099,
-      "week_growth": 4295
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "stars": 45154,
+      "week_growth": 3803
     },
     {
       "rank": 8,
-      "full_name": "mattpocock/skills",
-      "stars": 271423,
-      "week_growth": 4191
+      "full_name": "sindresorhus/awesome",
+      "stars": 512519,
+      "week_growth": 3452
     },
     {
       "rank": 9,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 44674,
-      "week_growth": 3971
+      "full_name": "jaredpalmer/kev",
+      "stars": 7926,
+      "week_growth": 3449
     },
     {
       "rank": 10,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 147635,
-      "week_growth": 3832
+      "full_name": "hypit-ai/hypit",
+      "stars": 17655,
+      "week_growth": 3296
     },
     {
       "rank": 11,
-      "full_name": "sindresorhus/awesome",
-      "stars": 512066,
-      "week_growth": 3375
+      "full_name": "firecrawl/firecrawl",
+      "stars": 186714,
+      "week_growth": 3239
     },
     {
       "rank": 12,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 186105,
-      "week_growth": 3086
+      "full_name": "Human-Agent-Society/reef",
+      "stars": 7326,
+      "week_growth": 3206
     },
     {
       "rank": 13,
-      "full_name": "Human-Agent-Society/reef",
-      "stars": 6977,
-      "week_growth": 3032
+      "full_name": "browser-use/jev-ultrafast",
+      "stars": 21430,
+      "week_growth": 3187
     },
     {
       "rank": 14,
-      "full_name": "obra/superpowers",
-      "stars": 292564,
-      "week_growth": 2796
+      "full_name": "jev-chat/jev-chat-jarvis",
+      "stars": 7127,
+      "week_growth": 2957
     },
     {
       "rank": 15,
-      "full_name": "mizorewww/laya-mlx",
-      "stars": 6584,
-      "week_growth": 2488
+      "full_name": "obra/superpowers",
+      "stars": 293059,
+      "week_growth": 2804
     },
     {
       "rank": 16,
-      "full_name": "miuuyy/codex-chatgpt-web",
-      "stars": 12615,
-      "week_growth": 2259
+      "full_name": "dataelement/dsh-desktop",
+      "stars": 10855,
+      "week_growth": 2360
     },
     {
       "rank": 17,
-      "full_name": "dataelement/dsh-desktop",
-      "stars": 10419,
-      "week_growth": 2123
+      "full_name": "miuuyy/codex-chatgpt-web",
+      "stars": 12881,
+      "week_growth": 2174
     },
     {
       "rank": 18,
-      "full_name": "public-apis/public-apis",
-      "stars": 484140,
-      "week_growth": 2037
+      "full_name": "Mak5er/AirCard",
+      "stars": 5053,
+      "week_growth": 2162
     },
     {
       "rank": 19,
-      "full_name": "NousResearch/hermes-agent",
-      "stars": 249844,
-      "week_growth": 2028
+      "full_name": "public-apis/public-apis",
+      "stars": 484442,
+      "week_growth": 2066
     },
     {
       "rank": 20,
-      "full_name": "codecrafters-io/build-your-own-x",
-      "stars": 550474,
-      "week_growth": 1808
+      "full_name": "NousResearch/hermes-agent",
+      "stars": 250112,
+      "week_growth": 1966
     }
   ]
 }
