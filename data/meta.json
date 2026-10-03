@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-10-02",
-  "repo_count": 156,
-  "week_snapshot": "2026-09-25",
+  "last_update": "2026-10-03",
+  "repo_count": 158,
+  "week_snapshot": "2026-09-26",
   "top": [
     {
       "rank": 1,
       "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 33743,
-      "week_growth": 19333
+      "stars": 35723,
+      "week_growth": 19335
     },
     {
       "rank": 2,
-      "full_name": "NandhaKishorM/laya",
-      "stars": 29907,
-      "week_growth": 6686
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 242436,
+      "week_growth": 6303
     },
     {
       "rank": 3,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 241837,
-      "week_growth": 6553
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 151943,
+      "week_growth": 5903
     },
     {
       "rank": 4,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 150691,
-      "week_growth": 5100
+      "full_name": "NandhaKishorM/laya",
+      "stars": 30241,
+      "week_growth": 5467
     },
     {
       "rank": 5,
       "full_name": "mattpocock/skills",
-      "stars": 274033,
-      "week_growth": 4861
+      "stars": 274783,
+      "week_growth": 5009
     },
     {
       "rank": 6,
       "full_name": "affaan-m/ECC",
-      "stars": 270764,
-      "week_growth": 3776
+      "stars": 271436,
+      "week_growth": 3880
     },
     {
       "rank": 7,
       "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 46237,
-      "week_growth": 3709
+      "stars": 46625,
+      "week_growth": 3499
     },
     {
       "rank": 8,
       "full_name": "sindresorhus/awesome",
-      "stars": 513319,
-      "week_growth": 3289
+      "stars": 513786,
+      "week_growth": 3271
     },
     {
       "rank": 9,
       "full_name": "firecrawl/firecrawl",
-      "stars": 187634,
-      "week_growth": 3272
+      "stars": 187994,
+      "week_growth": 3217
     },
     {
       "rank": 10,
-      "full_name": "obra/superpowers",
-      "stars": 294039,
-      "week_growth": 2773
+      "full_name": "hypit-ai/hypit",
+      "stars": 18915,
+      "week_growth": 2877
     },
     {
       "rank": 11,
-      "full_name": "hypit-ai/hypit",
-      "stars": 18587,
-      "week_growth": 2434
+      "full_name": "obra/superpowers",
+      "stars": 294517,
+      "week_growth": 2815
     },
     {
       "rank": 12,
-      "full_name": "Human-Agent-Society/reef",
-      "stars": 7470,
-      "week_growth": 2418
+      "full_name": "dataelement/dsh-desktop",
+      "stars": 11689,
+      "week_growth": 2364
     },
     {
       "rank": 13,
       "full_name": "public-apis/public-apis",
-      "stars": 485298,
-      "week_growth": 2351
+      "stars": 485592,
+      "week_growth": 2317
     },
     {
       "rank": 14,
-      "full_name": "dataelement/dsh-desktop",
-      "stars": 11494,
-      "week_growth": 2297
+      "full_name": "Human-Agent-Society/reef",
+      "stars": 7482,
+      "week_growth": 2243
     },
     {
       "rank": 15,
       "full_name": "NousResearch/hermes-agent",
-      "stars": 250638,
-      "week_growth": 1878
+      "stars": 250794,
+      "week_growth": 1793
     },
     {
       "rank": 16,
-      "full_name": "miuuyy/codex-chatgpt-web",
-      "stars": 13173,
-      "week_growth": 1849
+      "full_name": "vinta/awesome-python",
+      "stars": 324775,
+      "week_growth": 1739
     },
     {
       "rank": 17,
-      "full_name": "browser-use/jev-ultrafast",
-      "stars": 21718,
-      "week_growth": 1832
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "stars": 323470,
+      "week_growth": 1660
     },
     {
       "rank": 18,
-      "full_name": "vinta/awesome-python",
-      "stars": 324556,
-      "week_growth": 1748
+      "full_name": "vorssaint/vorssaint-utils",
+      "stars": 23009,
+      "week_growth": 1647
     },
     {
       "rank": 19,
-      "full_name": "codecrafters-io/build-your-own-x",
-      "stars": 551103,
-      "week_growth": 1734
+      "full_name": "miuuyy/codex-chatgpt-web",
+      "stars": 13262,
+      "week_growth": 1633
     },
     {
       "rank": 20,
-      "full_name": "awesome-selfhosted/awesome-selfhosted",
-      "stars": 323255,
-      "week_growth": 1687
+      "full_name": "codecrafters-io/build-your-own-x",
+      "stars": 551237,
+      "week_growth": 1626
     }
   ]
 }
