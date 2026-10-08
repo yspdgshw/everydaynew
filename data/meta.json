@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-10-07",
-  "repo_count": 169,
-  "week_snapshot": "2026-09-30",
+  "last_update": "2026-10-08",
+  "repo_count": 174,
+  "week_snapshot": "2026-10-01",
   "top": [
     {
       "rank": 1,
       "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 47207,
-      "week_growth": 17950
+      "stars": 51557,
+      "week_growth": 19277
     },
     {
       "rank": 2,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 156944,
-      "week_growth": 8621
+      "full_name": "Niko1221/Strata",
+      "stars": 17353,
+      "week_growth": 14120
     },
     {
       "rank": 3,
-      "full_name": "mattpocock/skills",
-      "stars": 278305,
-      "week_growth": 6095
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 157740,
+      "week_growth": 8422
     },
     {
       "rank": 4,
-      "full_name": "affaan-m/ECC",
-      "stars": 274377,
-      "week_growth": 4671
+      "full_name": "mattpocock/skills",
+      "stars": 279891,
+      "week_growth": 6789
     },
     {
       "rank": 5,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 244706,
-      "week_growth": 4382
+      "full_name": "robbietilton/Compositor",
+      "stars": 11705,
+      "week_growth": 5002
     },
     {
       "rank": 6,
-      "full_name": "cdyforever/how-to-live-better",
-      "stars": 8575,
-      "week_growth": 3508
+      "full_name": "affaan-m/ECC",
+      "stars": 275021,
+      "week_growth": 4750
     },
     {
       "rank": 7,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 48430,
-      "week_growth": 3276
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 245358,
+      "week_growth": 4164
     },
     {
       "rank": 8,
-      "full_name": "sindresorhus/awesome",
-      "stars": 515698,
-      "week_growth": 3179
+      "full_name": "cdyforever/how-to-live-better",
+      "stars": 9558,
+      "week_growth": 3700
     },
     {
       "rank": 9,
-      "full_name": "robbietilton/Compositor",
-      "stars": 9688,
-      "week_growth": 3150
+      "full_name": "sindresorhus/awesome",
+      "stars": 516176,
+      "week_growth": 3245
     },
     {
       "rank": 10,
-      "full_name": "obra/superpowers",
-      "stars": 296064,
-      "week_growth": 3005
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "stars": 48830,
+      "week_growth": 3065
     },
     {
       "rank": 11,
-      "full_name": "KKKKhazix/AIHOT",
-      "stars": 6224,
-      "week_growth": 2782
+      "full_name": "obra/superpowers",
+      "stars": 296448,
+      "week_growth": 2929
     },
     {
       "rank": 12,
-      "full_name": "yetone/magpie",
-      "stars": 5536,
-      "week_growth": 2535
+      "full_name": "KKKKhazix/AIHOT",
+      "stars": 6500,
+      "week_growth": 2337
     },
     {
       "rank": 13,
       "full_name": "firecrawl/firecrawl",
-      "stars": 189248,
-      "week_growth": 2534
+      "stars": 189556,
+      "week_growth": 2326
     },
     {
       "rank": 14,
-      "full_name": "NandhaKishorM/laya",
-      "stars": 31249,
-      "week_growth": 2524
+      "full_name": "yetone/magpie",
+      "stars": 6150,
+      "week_growth": 2289
     },
     {
       "rank": 15,
-      "full_name": "public-apis/public-apis",
-      "stars": 486592,
-      "week_growth": 2150
+      "full_name": "NandhaKishorM/laya",
+      "stars": 31497,
+      "week_growth": 2161
     },
     {
       "rank": 16,
       "full_name": "vorssaint/vorssaint-utils",
-      "stars": 24299,
-      "week_growth": 2135
+      "stars": 24496,
+      "week_growth": 2093
     },
     {
       "rank": 17,
       "full_name": "hypit-ai/hypit",
-      "stars": 19761,
-      "week_growth": 2106
+      "stars": 20097,
+      "week_growth": 1961
     },
     {
       "rank": 18,
-      "full_name": "awesome-selfhosted/awesome-selfhosted",
-      "stars": 324442,
-      "week_growth": 1679
+      "full_name": "public-apis/public-apis",
+      "stars": 486813,
+      "week_growth": 1959
     },
     {
       "rank": 19,
-      "full_name": "NousResearch/hermes-agent",
-      "stars": 251745,
-      "week_growth": 1633
+      "full_name": "crmne/spotifast",
+      "stars": 6702,
+      "week_growth": 1894
     },
     {
       "rank": 20,
-      "full_name": "yt-dlp/yt-dlp",
-      "stars": 196020,
-      "week_growth": 1614
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "stars": 324704,
+      "week_growth": 1690
     }
   ]
 }
