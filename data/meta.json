@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-10-08",
-  "repo_count": 174,
-  "week_snapshot": "2026-10-01",
+  "last_update": "2026-10-09",
+  "repo_count": 177,
+  "week_snapshot": "2026-10-02",
   "top": [
     {
       "rank": 1,
       "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 51557,
-      "week_growth": 19277
+      "stars": 55317,
+      "week_growth": 21574
     },
     {
       "rank": 2,
       "full_name": "Niko1221/Strata",
-      "stars": 17353,
-      "week_growth": 14120
+      "stars": 18694,
+      "week_growth": 13817
     },
     {
       "rank": 3,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 157740,
-      "week_growth": 8422
+      "stars": 158715,
+      "week_growth": 8024
     },
     {
       "rank": 4,
       "full_name": "mattpocock/skills",
-      "stars": 279891,
-      "week_growth": 6789
+      "stars": 281353,
+      "week_growth": 7320
     },
     {
       "rank": 5,
       "full_name": "robbietilton/Compositor",
-      "stars": 11705,
-      "week_growth": 5002
+      "stars": 13739,
+      "week_growth": 6936
     },
     {
       "rank": 6,
       "full_name": "affaan-m/ECC",
-      "stars": 275021,
-      "week_growth": 4750
+      "stars": 275481,
+      "week_growth": 4717
     },
     {
       "rank": 7,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 245358,
-      "week_growth": 4164
+      "full_name": "cdyforever/how-to-live-better",
+      "stars": 10292,
+      "week_growth": 4190
     },
     {
       "rank": 8,
-      "full_name": "cdyforever/how-to-live-better",
-      "stars": 9558,
-      "week_growth": 3700
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 245850,
+      "week_growth": 4013
     },
     {
       "rank": 9,
       "full_name": "sindresorhus/awesome",
-      "stars": 516176,
-      "week_growth": 3245
+      "stars": 516422,
+      "week_growth": 3103
     },
     {
       "rank": 10,
       "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 48830,
-      "week_growth": 3065
+      "stars": 49262,
+      "week_growth": 3025
     },
     {
       "rank": 11,
-      "full_name": "obra/superpowers",
-      "stars": 296448,
-      "week_growth": 2929
+      "full_name": "yetone/magpie",
+      "stars": 6900,
+      "week_growth": 2784
     },
     {
       "rank": 12,
-      "full_name": "KKKKhazix/AIHOT",
-      "stars": 6500,
-      "week_growth": 2337
+      "full_name": "obra/superpowers",
+      "stars": 296623,
+      "week_growth": 2584
     },
     {
       "rank": 13,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 189556,
-      "week_growth": 2326
+      "full_name": "vorssaint/vorssaint-utils",
+      "stars": 24883,
+      "week_growth": 2298
     },
     {
       "rank": 14,
-      "full_name": "yetone/magpie",
-      "stars": 6150,
-      "week_growth": 2289
+      "full_name": "KKKKhazix/AIHOT",
+      "stars": 6779,
+      "week_growth": 2065
     },
     {
       "rank": 15,
-      "full_name": "NandhaKishorM/laya",
-      "stars": 31497,
-      "week_growth": 2161
+      "full_name": "crmne/spotifast",
+      "stars": 6888,
+      "week_growth": 2048
     },
     {
       "rank": 16,
-      "full_name": "vorssaint/vorssaint-utils",
-      "stars": 24496,
-      "week_growth": 2093
+      "full_name": "firecrawl/firecrawl",
+      "stars": 189666,
+      "week_growth": 2032
     },
     {
       "rank": 17,
-      "full_name": "hypit-ai/hypit",
-      "stars": 20097,
-      "week_growth": 1961
+      "full_name": "NandhaKishorM/laya",
+      "stars": 31780,
+      "week_growth": 1873
     },
     {
       "rank": 18,
-      "full_name": "public-apis/public-apis",
-      "stars": 486813,
-      "week_growth": 1959
+      "full_name": "hypit-ai/hypit",
+      "stars": 20431,
+      "week_growth": 1844
     },
     {
       "rank": 19,
-      "full_name": "crmne/spotifast",
-      "stars": 6702,
-      "week_growth": 1894
+      "full_name": "Louis-CFM/coucou",
+      "stars": 4281,
+      "week_growth": 1758
     },
     {
       "rank": 20,
-      "full_name": "awesome-selfhosted/awesome-selfhosted",
-      "stars": 324704,
-      "week_growth": 1690
+      "full_name": "JustVugg/colibri",
+      "stars": 40607,
+      "week_growth": 1718
     }
   ]
 }
