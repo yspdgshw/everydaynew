@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-10-13",
-  "repo_count": 182,
-  "week_snapshot": "2026-10-06",
+  "last_update": "2026-10-14",
+  "repo_count": 184,
+  "week_snapshot": "2026-10-07",
   "top": [
     {
       "rank": 1,
-      "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 61351,
-      "week_growth": 17362
+      "full_name": "storytold/photocraft",
+      "stars": 58354,
+      "week_growth": 50042
     },
     {
       "rank": 2,
-      "full_name": "mattpocock/skills",
-      "stars": 288270,
-      "week_growth": 11063
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 62217,
+      "week_growth": 15010
     },
     {
       "rank": 3,
-      "full_name": "Niko1221/Strata",
-      "stars": 22945,
-      "week_growth": 8688
+      "full_name": "mattpocock/skills",
+      "stars": 289896,
+      "week_growth": 11591
     },
     {
       "rank": 4,
-      "full_name": "robbietilton/Compositor",
-      "stars": 16492,
-      "week_growth": 8065
+      "full_name": "openai/math",
+      "stars": 14696,
+      "week_growth": 10951
     },
     {
       "rank": 5,
-      "full_name": "lexmount/moli",
-      "stars": 17449,
-      "week_growth": 7857
+      "full_name": "Niko1221/Strata",
+      "stars": 23833,
+      "week_growth": 7859
     },
     {
       "rank": 6,
       "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 54039,
-      "week_growth": 6006
+      "stars": 55614,
+      "week_growth": 7184
     },
     {
       "rank": 7,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 162011,
-      "week_growth": 5898
+      "full_name": "robbietilton/Compositor",
+      "stars": 16766,
+      "week_growth": 7078
     },
     {
       "rank": 8,
-      "full_name": "yetone/magpie",
-      "stars": 10677,
-      "week_growth": 5466
+      "full_name": "lexmount/moli",
+      "stars": 18025,
+      "week_growth": 6625
     },
     {
       "rank": 9,
-      "full_name": "shihabal3amri/DiPlay",
-      "stars": 10050,
-      "week_growth": 5211
+      "full_name": "yetone/magpie",
+      "stars": 11796,
+      "week_growth": 6260
     },
     {
       "rank": 10,
-      "full_name": "affaan-m/ECC",
-      "stars": 278047,
-      "week_growth": 4308
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 162851,
+      "week_growth": 5907
     },
     {
       "rank": 11,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 248415,
-      "week_growth": 4290
+      "full_name": "shihabal3amri/DiPlay",
+      "stars": 10349,
+      "week_growth": 4876
     },
     {
       "rank": 12,
-      "full_name": "cdyforever/how-to-live-better",
-      "stars": 11476,
-      "week_growth": 3635
+      "full_name": "Droid-Deck/DroidDeck",
+      "stars": 7567,
+      "week_growth": 4776
     },
     {
       "rank": 13,
-      "full_name": "rehan-remade/universal-modder",
-      "stars": 7144,
-      "week_growth": 3230
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 249102,
+      "week_growth": 4396
     },
     {
       "rank": 14,
-      "full_name": "sindresorhus/awesome",
-      "stars": 518268,
-      "week_growth": 3023
+      "full_name": "affaan-m/ECC",
+      "stars": 278675,
+      "week_growth": 4298
     },
     {
       "rank": 15,
-      "full_name": "vorssaint/vorssaint-utils",
-      "stars": 26716,
-      "week_growth": 2681
+      "full_name": "cdyforever/how-to-live-better",
+      "stars": 11674,
+      "week_growth": 3099
     },
     {
       "rank": 16,
-      "full_name": "Albert-Weasker/niubigeo",
-      "stars": 7525,
-      "week_growth": 2669
+      "full_name": "sindresorhus/awesome",
+      "stars": 518721,
+      "week_growth": 3023
     },
     {
       "rank": 17,
-      "full_name": "obra/superpowers",
-      "stars": 298302,
-      "week_growth": 2599
+      "full_name": "Albert-Weasker/niubigeo",
+      "stars": 7665,
+      "week_growth": 2802
     },
     {
       "rank": 18,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "stars": 219296,
-      "week_growth": 2189
+      "full_name": "rehan-remade/universal-modder",
+      "stars": 7430,
+      "week_growth": 2732
     },
     {
       "rank": 19,
-      "full_name": "hypit-ai/hypit",
-      "stars": 21668,
-      "week_growth": 2160
+      "full_name": "vorssaint/vorssaint-utils",
+      "stars": 27007,
+      "week_growth": 2708
     },
     {
       "rank": 20,
-      "full_name": "crmne/spotifast",
-      "stars": 7657,
-      "week_growth": 2130
+      "full_name": "obra/superpowers",
+      "stars": 298727,
+      "week_growth": 2663
     }
   ]
 }
