@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-10-14",
-  "repo_count": 184,
-  "week_snapshot": "2026-10-07",
+  "last_update": "2026-10-15",
+  "repo_count": 185,
+  "week_snapshot": "2026-10-08",
   "top": [
     {
       "rank": 1,
       "full_name": "storytold/photocraft",
-      "stars": 58354,
-      "week_growth": 50042
+      "stars": 61366,
+      "week_growth": 42641
     },
     {
       "rank": 2,
-      "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 62217,
-      "week_growth": 15010
+      "full_name": "boykopovar/AnyPS5",
+      "stars": 37300,
+      "week_growth": 26131
     },
     {
       "rank": 3,
-      "full_name": "mattpocock/skills",
-      "stars": 289896,
-      "week_growth": 11591
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "stars": 16429,
+      "week_growth": 12843
     },
     {
       "rank": 4,
-      "full_name": "openai/math",
-      "stars": 14696,
-      "week_growth": 10951
+      "full_name": "mattpocock/skills",
+      "stars": 291451,
+      "week_growth": 11560
     },
     {
       "rank": 5,
-      "full_name": "Niko1221/Strata",
-      "stars": 23833,
-      "week_growth": 7859
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 63112,
+      "week_growth": 11555
     },
     {
       "rank": 6,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 55614,
-      "week_growth": 7184
+      "full_name": "storytold/filmcraft",
+      "stars": 13362,
+      "week_growth": 9768
     },
     {
       "rank": 7,
-      "full_name": "robbietilton/Compositor",
-      "stars": 16766,
-      "week_growth": 7078
+      "full_name": "storytold/lightcraft",
+      "stars": 12628,
+      "week_growth": 9301
     },
     {
       "rank": 8,
-      "full_name": "lexmount/moli",
-      "stars": 18025,
-      "week_growth": 6625
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "stars": 56521,
+      "week_growth": 7691
     },
     {
       "rank": 9,
-      "full_name": "yetone/magpie",
-      "stars": 11796,
-      "week_growth": 6260
+      "full_name": "Niko1221/Strata",
+      "stars": 24698,
+      "week_growth": 7345
     },
     {
       "rank": 10,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 162851,
-      "week_growth": 5907
+      "full_name": "yetone/magpie",
+      "stars": 12871,
+      "week_growth": 6721
     },
     {
       "rank": 11,
-      "full_name": "shihabal3amri/DiPlay",
-      "stars": 10349,
-      "week_growth": 4876
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 163699,
+      "week_growth": 5959
     },
     {
       "rank": 12,
-      "full_name": "Droid-Deck/DroidDeck",
-      "stars": 7567,
-      "week_growth": 4776
+      "full_name": "lexmount/moli",
+      "stars": 18446,
+      "week_growth": 5703
     },
     {
       "rank": 13,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 249102,
-      "week_growth": 4396
+      "full_name": "robbietilton/Compositor",
+      "stars": 16937,
+      "week_growth": 5232
     },
     {
       "rank": 14,
-      "full_name": "affaan-m/ECC",
-      "stars": 278675,
-      "week_growth": 4298
+      "full_name": "Droid-Deck/DroidDeck",
+      "stars": 8388,
+      "week_growth": 5121
     },
     {
       "rank": 15,
-      "full_name": "cdyforever/how-to-live-better",
-      "stars": 11674,
-      "week_growth": 3099
+      "full_name": "openai/math",
+      "stars": 14831,
+      "week_growth": 4665
     },
     {
       "rank": 16,
-      "full_name": "sindresorhus/awesome",
-      "stars": 518721,
-      "week_growth": 3023
+      "full_name": "affaan-m/ECC",
+      "stars": 279543,
+      "week_growth": 4522
     },
     {
       "rank": 17,
-      "full_name": "Albert-Weasker/niubigeo",
-      "stars": 7665,
-      "week_growth": 2802
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 249809,
+      "week_growth": 4451
     },
     {
       "rank": 18,
-      "full_name": "rehan-remade/universal-modder",
-      "stars": 7430,
-      "week_growth": 2732
+      "full_name": "shihabal3amri/DiPlay",
+      "stars": 10676,
+      "week_growth": 4146
     },
     {
       "rank": 19,
-      "full_name": "vorssaint/vorssaint-utils",
-      "stars": 27007,
-      "week_growth": 2708
+      "full_name": "Albert-Weasker/niubigeo",
+      "stars": 7788,
+      "week_growth": 2922
     },
     {
       "rank": 20,
-      "full_name": "obra/superpowers",
-      "stars": 298727,
-      "week_growth": 2663
+      "full_name": "sindresorhus/awesome",
+      "stars": 519074,
+      "week_growth": 2898
     }
   ]
 }
