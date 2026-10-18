@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-10-17",
-  "repo_count": 188,
-  "week_snapshot": "2026-10-10",
+  "last_update": "2026-10-18",
+  "repo_count": 191,
+  "week_snapshot": "2026-10-11",
   "top": [
     {
       "rank": 1,
       "full_name": "storytold/photocraft",
-      "stars": 65145,
-      "week_growth": 28765
+      "stars": 66508,
+      "week_growth": 23711
     },
     {
       "rank": 2,
-      "full_name": "boykopovar/AnyPS5",
-      "stars": 39996,
-      "week_growth": 17065
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "stars": 22109,
+      "week_growth": 15010
     },
     {
       "rank": 3,
-      "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 19529,
-      "week_growth": 13642
+      "full_name": "boykopovar/AnyPS5",
+      "stars": 41876,
+      "week_growth": 14638
     },
     {
       "rank": 4,
       "full_name": "mattpocock/skills",
-      "stars": 294173,
-      "week_growth": 11188
+      "stars": 295191,
+      "week_growth": 10481
     },
     {
       "rank": 5,
       "full_name": "storytold/pdfcraft",
-      "stars": 15053,
-      "week_growth": 8431
+      "stars": 15523,
+      "week_growth": 7388
     },
     {
       "rank": 6,
       "full_name": "bilawalsidhu/gods-eye-view",
-      "stars": 57281,
-      "week_growth": 7577
+      "stars": 57674,
+      "week_growth": 7220
     },
     {
       "rank": 7,
-      "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 64587,
-      "week_growth": 7120
+      "full_name": "yetone/magpie",
+      "stars": 15162,
+      "week_growth": 6489
     },
     {
       "rank": 8,
-      "full_name": "storytold/filmcraft",
-      "stars": 14247,
-      "week_growth": 6922
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 65267,
+      "week_growth": 6288
     },
     {
       "rank": 9,
-      "full_name": "yetone/magpie",
-      "stars": 14255,
-      "week_growth": 6650
+      "full_name": "Niko1221/Strata",
+      "stars": 26940,
+      "week_growth": 6120
     },
     {
       "rank": 10,
-      "full_name": "Niko1221/Strata",
-      "stars": 26321,
-      "week_growth": 6562
+      "full_name": "affaan-m/ECC",
+      "stars": 282586,
+      "week_growth": 5994
     },
     {
       "rank": 11,
       "full_name": "Droid-Deck/DroidDeck",
-      "stars": 9587,
-      "week_growth": 5655
+      "stars": 10254,
+      "week_growth": 5891
     },
     {
       "rank": 12,
-      "full_name": "affaan-m/ECC",
-      "stars": 281592,
-      "week_growth": 5536
+      "full_name": "storytold/filmcraft",
+      "stars": 14594,
+      "week_growth": 5783
     },
     {
       "rank": 13,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 165263,
-      "week_growth": 5511
+      "stars": 166299,
+      "week_growth": 5738
     },
     {
       "rank": 14,
-      "full_name": "storytold/lightcraft",
-      "stars": 13238,
-      "week_growth": 5337
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 252242,
+      "week_growth": 5158
     },
     {
       "rank": 15,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 251221,
-      "week_growth": 4731
+      "full_name": "storytold/lightcraft",
+      "stars": 13490,
+      "week_growth": 4337
     },
     {
       "rank": 16,
-      "full_name": "storytold/vectorcraft",
-      "stars": 9488,
-      "week_growth": 4161
+      "full_name": "obra/superpowers",
+      "stars": 301253,
+      "week_growth": 3970
     },
     {
       "rank": 17,
-      "full_name": "lexmount/moli",
-      "stars": 19031,
-      "week_growth": 4042
+      "full_name": "DuarteSantos8/openGym",
+      "stars": 13192,
+      "week_growth": 3894
     },
     {
       "rank": 18,
-      "full_name": "obra/superpowers",
-      "stars": 300719,
-      "week_growth": 3782
+      "full_name": "lexmount/moli",
+      "stars": 19290,
+      "week_growth": 3567
     },
     {
       "rank": 19,
-      "full_name": "sindresorhus/awesome",
-      "stars": 520061,
-      "week_growth": 3207
+      "full_name": "storytold/vectorcraft",
+      "stars": 9688,
+      "week_growth": 3413
     },
     {
       "rank": 20,
-      "full_name": "storytold/effectcraft",
-      "stars": 7025,
-      "week_growth": 3025
+      "full_name": "sindresorhus/awesome",
+      "stars": 520550,
+      "week_growth": 3250
     }
   ]
 }
