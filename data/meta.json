@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-10-25",
-  "repo_count": 200,
-  "week_snapshot": "2026-10-18",
+  "last_update": "2026-10-26",
+  "repo_count": 202,
+  "week_snapshot": "2026-10-19",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 379219,
-      "week_growth": 70289
+      "stars": 385382,
+      "week_growth": 61281
     },
     {
       "rank": 2,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 41435,
-      "week_growth": 19326
+      "stars": 43183,
+      "week_growth": 17989
     },
     {
       "rank": 3,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 175582,
-      "week_growth": 9283
+      "full_name": "google-research/harness2",
+      "stars": 19699,
+      "week_growth": 12585
     },
     {
       "rank": 4,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 260584,
-      "week_growth": 8342
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 176262,
+      "week_growth": 9131
     },
     {
       "rank": 5,
-      "full_name": "mattpocock/skills",
-      "stars": 302585,
-      "week_growth": 7394
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 261541,
+      "week_growth": 8244
     },
     {
       "rank": 6,
-      "full_name": "boykopovar/AnyPS5",
-      "stars": 47927,
-      "week_growth": 6051
+      "full_name": "KnifeLemon/Filee",
+      "stars": 12378,
+      "week_growth": 7965
     },
     {
       "rank": 7,
-      "full_name": "storytold/photocraft",
-      "stars": 72442,
-      "week_growth": 5934
+      "full_name": "mattpocock/skills",
+      "stars": 303328,
+      "week_growth": 6974
     },
     {
       "rank": 8,
-      "full_name": "tangency-labs/solidcraft",
-      "stars": 10121,
-      "week_growth": 5739
+      "full_name": "affaan-m/ECC",
+      "stars": 288924,
+      "week_growth": 5554
     },
     {
       "rank": 9,
       "full_name": "yetone/magpie",
-      "stars": 20844,
-      "week_growth": 5682
+      "stars": 21600,
+      "week_growth": 5456
     },
     {
       "rank": 10,
-      "full_name": "anomalyco/opencode",
-      "stars": 221121,
-      "week_growth": 5644
+      "full_name": "Niko1221/Strata",
+      "stars": 32867,
+      "week_growth": 5317
     },
     {
       "rank": 11,
-      "full_name": "affaan-m/ECC",
-      "stars": 288155,
-      "week_growth": 5569
+      "full_name": "storytold/photocraft",
+      "stars": 72896,
+      "week_growth": 5303
     },
     {
       "rank": 12,
-      "full_name": "Niko1221/Strata",
-      "stars": 32100,
-      "week_growth": 5160
+      "full_name": "boykopovar/AnyPS5",
+      "stars": 48282,
+      "week_growth": 4961
     },
     {
       "rank": 13,
-      "full_name": "wheresryan22/anatomy",
-      "stars": 20199,
-      "week_growth": 4995
+      "full_name": "anomalyco/opencode",
+      "stars": 221576,
+      "week_growth": 4840
     },
     {
       "rank": 14,
       "full_name": "yihui-dev/awesome-opus5-5-videos",
-      "stars": 10549,
-      "week_growth": 4728
+      "stars": 11135,
+      "week_growth": 4839
     },
     {
       "rank": 15,
-      "full_name": "Droid-Deck/DroidDeck",
-      "stars": 13945,
-      "week_growth": 3691
+      "full_name": "tangency-labs/solidcraft",
+      "stars": 10505,
+      "week_growth": 4628
     },
     {
       "rank": 16,
-      "full_name": "sindresorhus/awesome",
-      "stars": 524222,
-      "week_growth": 3672
+      "full_name": "wheresryan22/anatomy",
+      "stars": 20664,
+      "week_growth": 4524
     },
     {
       "rank": 17,
-      "full_name": "obra/superpowers",
-      "stars": 304667,
-      "week_growth": 3414
+      "full_name": "sindresorhus/awesome",
+      "stars": 524721,
+      "week_growth": 3701
     },
     {
       "rank": 18,
-      "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 68677,
-      "week_growth": 3410
+      "full_name": "Droid-Deck/DroidDeck",
+      "stars": 14463,
+      "week_growth": 3551
     },
     {
       "rank": 19,
-      "full_name": "jub0t/Concat",
-      "stars": 11341,
-      "week_growth": 2973
+      "full_name": "obra/superpowers",
+      "stars": 305111,
+      "week_growth": 3415
     },
     {
       "rank": 20,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "stars": 223419,
-      "week_growth": 2732
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 69068,
+      "week_growth": 3195
     }
   ]
 }
