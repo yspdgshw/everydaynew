@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-10-29",
-  "repo_count": 209,
-  "week_snapshot": "2026-10-22",
+  "last_update": "2026-10-30",
+  "repo_count": 215,
+  "week_snapshot": "2026-10-23",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 403486,
-      "week_growth": 44705
+      "stars": 408601,
+      "week_growth": 41486
     },
     {
       "rank": 2,
       "full_name": "Gathin23/cleanyourtv",
-      "stars": 44086,
-      "week_growth": 24188
+      "stars": 45646,
+      "week_growth": 21026
     },
     {
       "rank": 3,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 49317,
-      "week_growth": 14943
+      "stars": 51265,
+      "week_growth": 14164
     },
     {
       "rank": 4,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 265059,
-      "week_growth": 7879
+      "stars": 266034,
+      "week_growth": 7673
     },
     {
       "rank": 5,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 179338,
-      "week_growth": 7466
+      "full_name": "KnifeLemon/Filee",
+      "stars": 17580,
+      "week_growth": 7275
     },
     {
       "rank": 6,
-      "full_name": "KnifeLemon/Filee",
-      "stars": 16621,
-      "week_growth": 7365
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 180321,
+      "week_growth": 6621
     },
     {
       "rank": 7,
       "full_name": "affaan-m/ECC",
-      "stars": 291893,
-      "week_growth": 6090
+      "stars": 292807,
+      "week_growth": 6195
     },
     {
       "rank": 8,
-      "full_name": "mattpocock/skills",
-      "stars": 305884,
-      "week_growth": 5894
+      "full_name": "yetone/magpie",
+      "stars": 25606,
+      "week_growth": 5957
     },
     {
       "rank": 9,
-      "full_name": "yetone/magpie",
-      "stars": 24757,
-      "week_growth": 5839
+      "full_name": "mattpocock/skills",
+      "stars": 306739,
+      "week_growth": 5742
     },
     {
       "rank": 10,
-      "full_name": "deepseek-ai/DeepInfer",
-      "stars": 23999,
-      "week_growth": 5709
+      "full_name": "Niko1221/Strata",
+      "stars": 36098,
+      "week_growth": 5424
     },
     {
       "rank": 11,
-      "full_name": "Niko1221/Strata",
-      "stars": 35458,
-      "week_growth": 5462
+      "full_name": "obra/superpowers",
+      "stars": 308727,
+      "week_growth": 4931
     },
     {
       "rank": 12,
-      "full_name": "obra/superpowers",
-      "stars": 307581,
-      "week_growth": 4370
+      "full_name": "deepseek-ai/DeepInfer",
+      "stars": 24296,
+      "week_growth": 4215
     },
     {
       "rank": 13,
-      "full_name": "lemomo-ai/lemo-opuscar",
-      "stars": 9152,
-      "week_growth": 4186
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "stars": 226513,
+      "week_growth": 3946
     },
     {
       "rank": 14,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "stars": 226042,
-      "week_growth": 4039
+      "full_name": "lemomo-ai/lemo-opuscar",
+      "stars": 9476,
+      "week_growth": 3788
     },
     {
       "rank": 15,
       "full_name": "sindresorhus/awesome",
-      "stars": 526404,
-      "week_growth": 3952
+      "stars": 526932,
+      "week_growth": 3716
     },
     {
       "rank": 16,
-      "full_name": "storytold/photocraft",
-      "stars": 74496,
-      "week_growth": 3789
+      "full_name": "wheresryan22/anatomy",
+      "stars": 22690,
+      "week_growth": 3468
     },
     {
       "rank": 17,
-      "full_name": "yihui-dev/awesome-opus5-5-videos",
-      "stars": 12370,
-      "week_growth": 3777
+      "full_name": "storytold/photocraft",
+      "stars": 74896,
+      "week_growth": 3456
     },
     {
       "rank": 18,
-      "full_name": "google-research/harness2",
-      "stars": 21079,
-      "week_growth": 3763
+      "full_name": "Droid-Deck/DroidDeck",
+      "stars": 16222,
+      "week_growth": 3428
     },
     {
       "rank": 19,
-      "full_name": "wheresryan22/anatomy",
-      "stars": 22215,
-      "week_growth": 3583
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 71342,
+      "week_growth": 3293
     },
     {
       "rank": 20,
-      "full_name": "Droid-Deck/DroidDeck",
-      "stars": 15851,
-      "week_growth": 3530
+      "full_name": "google-research/harness2",
+      "stars": 21355,
+      "week_growth": 3286
     }
   ]
 }
