@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-01",
-  "repo_count": 220,
-  "week_snapshot": "2026-10-25",
+  "last_update": "2026-11-02",
+  "repo_count": 223,
+  "week_snapshot": "2026-10-26",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 415967,
-      "week_growth": 36748
+      "stars": 419470,
+      "week_growth": 34088
     },
     {
       "rank": 2,
       "full_name": "Gathin23/cleanyourtv",
-      "stars": 48074,
-      "week_growth": 15983
+      "stars": 49366,
+      "week_growth": 13704
     },
     {
       "rank": 3,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 54616,
-      "week_growth": 13181
+      "stars": 56058,
+      "week_growth": 12875
     },
     {
       "rank": 4,
       "full_name": "KnifeLemon/Filee",
-      "stars": 19392,
-      "week_growth": 7666
+      "stars": 20189,
+      "week_growth": 7811
     },
     {
       "rank": 5,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 267580,
-      "week_growth": 6996
+      "full_name": "Zagitta/gpu-unlock",
+      "stars": 14201,
+      "week_growth": 7093
     },
     {
       "rank": 6,
-      "full_name": "yetone/magpie",
-      "stars": 27064,
-      "week_growth": 6220
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 268606,
+      "week_growth": 7065
     },
     {
       "rank": 7,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 181600,
-      "week_growth": 6018
+      "full_name": "yetone/magpie",
+      "stars": 27818,
+      "week_growth": 6218
     },
     {
       "rank": 8,
-      "full_name": "affaan-m/ECC",
-      "stars": 294161,
-      "week_growth": 6006
+      "full_name": "mattpocock/skills",
+      "stars": 309385,
+      "week_growth": 6057
     },
     {
       "rank": 9,
-      "full_name": "mattpocock/skills",
-      "stars": 308542,
-      "week_growth": 5957
+      "full_name": "affaan-m/ECC",
+      "stars": 294911,
+      "week_growth": 5987
     },
     {
       "rank": 10,
-      "full_name": "obra/superpowers",
-      "stars": 310149,
-      "week_growth": 5482
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 182248,
+      "week_growth": 5986
     },
     {
       "rank": 11,
-      "full_name": "Niko1221/Strata",
-      "stars": 37162,
-      "week_growth": 5062
+      "full_name": "obra/superpowers",
+      "stars": 310733,
+      "week_growth": 5622
     },
     {
       "rank": 12,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "stars": 227572,
-      "week_growth": 4153
+      "full_name": "Niko1221/Strata",
+      "stars": 37834,
+      "week_growth": 4967
     },
     {
       "rank": 13,
-      "full_name": "sindresorhus/awesome",
-      "stars": 528096,
-      "week_growth": 3874
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "stars": 228100,
+      "week_growth": 4190
     },
     {
       "rank": 14,
-      "full_name": "lemomo-ai/lemo-opuscar",
-      "stars": 10144,
-      "week_growth": 3437
+      "full_name": "sindresorhus/awesome",
+      "stars": 528891,
+      "week_growth": 4170
     },
     {
       "rank": 15,
-      "full_name": "eternity4719/HowToLiveBetter",
-      "stars": 71966,
-      "week_growth": 3289
+      "full_name": "pengchujin/aerial-tv",
+      "stars": 8749,
+      "week_growth": 3581
     },
     {
       "rank": 16,
-      "full_name": "wheresryan22/anatomy",
-      "stars": 23417,
-      "week_growth": 3218
+      "full_name": "eternity4719/HowToLiveBetter",
+      "stars": 72430,
+      "week_growth": 3362
     },
     {
       "rank": 17,
-      "full_name": "storytold/photocraft",
-      "stars": 75605,
-      "week_growth": 3163
+      "full_name": "wheresryan22/anatomy",
+      "stars": 23839,
+      "week_growth": 3175
     },
     {
       "rank": 18,
-      "full_name": "Droid-Deck/DroidDeck",
-      "stars": 16918,
-      "week_growth": 2973
+      "full_name": "lemomo-ai/lemo-opuscar",
+      "stars": 10676,
+      "week_growth": 3167
     },
     {
       "rank": 19,
-      "full_name": "DuarteSantos8/openGym",
-      "stars": 18333,
-      "week_growth": 2783
+      "full_name": "storytold/photocraft",
+      "stars": 75942,
+      "week_growth": 3046
     },
     {
       "rank": 20,
-      "full_name": "deepseek-ai/DeepInfer",
-      "stars": 24683,
-      "week_growth": 2776
+      "full_name": "DuarteSantos8/openGym",
+      "stars": 18679,
+      "week_growth": 2805
     }
   ]
 }
