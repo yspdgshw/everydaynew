@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-05",
-  "repo_count": 227,
-  "week_snapshot": "2026-10-29",
+  "last_update": "2026-11-06",
+  "repo_count": 231,
+  "week_snapshot": "2026-10-30",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 431621,
-      "week_growth": 28135
+      "stars": 435079,
+      "week_growth": 26478
     },
     {
       "rank": 2,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 61091,
-      "week_growth": 11774
+      "stars": 62663,
+      "week_growth": 11398
     },
     {
       "rank": 3,
-      "full_name": "Gathin23/cleanyourtv",
-      "stars": 52119,
-      "week_growth": 8033
+      "full_name": "mattpocock/skills",
+      "stars": 315561,
+      "week_growth": 8822
     },
     {
       "rank": 4,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 272885,
-      "week_growth": 7826
+      "stars": 274057,
+      "week_growth": 8023
     },
     {
       "rank": 5,
-      "full_name": "mattpocock/skills",
-      "stars": 313617,
-      "week_growth": 7733
+      "full_name": "Gathin23/cleanyourtv",
+      "stars": 52750,
+      "week_growth": 7104
     },
     {
       "rank": 6,
-      "full_name": "KnifeLemon/Filee",
-      "stars": 22132,
-      "week_growth": 5511
+      "full_name": "affaan-m/ECC",
+      "stars": 297969,
+      "week_growth": 5162
     },
     {
       "rank": 7,
-      "full_name": "affaan-m/ECC",
-      "stars": 297357,
-      "week_growth": 5464
+      "full_name": "KnifeLemon/Filee",
+      "stars": 22694,
+      "week_growth": 5114
     },
     {
       "rank": 8,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 184669,
-      "week_growth": 5331
+      "full_name": "yetone/magpie",
+      "stars": 30670,
+      "week_growth": 5064
     },
     {
       "rank": 9,
-      "full_name": "yetone/magpie",
-      "stars": 29931,
-      "week_growth": 5174
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 185345,
+      "week_growth": 5024
     },
     {
       "rank": 10,
-      "full_name": "obra/superpowers",
-      "stars": 312552,
-      "week_growth": 4971
+      "full_name": "sindresorhus/awesome",
+      "stars": 531898,
+      "week_growth": 4966
     },
     {
       "rank": 11,
-      "full_name": "sindresorhus/awesome",
-      "stars": 531139,
-      "week_growth": 4735
+      "full_name": "Niko1221/Strata",
+      "stars": 40675,
+      "week_growth": 4577
     },
     {
       "rank": 12,
-      "full_name": "Niko1221/Strata",
-      "stars": 40087,
-      "week_growth": 4629
+      "full_name": "obra/superpowers",
+      "stars": 313122,
+      "week_growth": 4395
     },
     {
       "rank": 13,
       "full_name": "Zagitta/gpu-unlock",
-      "stars": 16725,
-      "week_growth": 4231
+      "stars": 17316,
+      "week_growth": 4148
     },
     {
       "rank": 14,
       "full_name": "multica-ai/andrej-karpathy-skills",
-      "stars": 229568,
-      "week_growth": 3526
+      "stars": 229952,
+      "week_growth": 3439
     },
     {
       "rank": 15,
       "full_name": "lemomo-ai/lemo-opuscar",
-      "stars": 12337,
-      "week_growth": 3185
+      "stars": 12736,
+      "week_growth": 3260
     },
     {
       "rank": 16,
-      "full_name": "public-apis/public-apis",
-      "stars": 496170,
-      "week_growth": 3108
+      "full_name": "JustVugg/colibri",
+      "stars": 48216,
+      "week_growth": 3218
     },
     {
       "rank": 17,
-      "full_name": "seedds/nxnative",
-      "stars": 12235,
-      "week_growth": 3083
+      "full_name": "public-apis/public-apis",
+      "stars": 496468,
+      "week_growth": 3148
     },
     {
       "rank": 18,
-      "full_name": "JustVugg/colibri",
-      "stars": 47820,
-      "week_growth": 3066
+      "full_name": "anthropics/skills",
+      "stars": 187829,
+      "week_growth": 2994
     },
     {
       "rank": 19,
-      "full_name": "anthropics/skills",
-      "stars": 187486,
-      "week_growth": 2929
+      "full_name": "codecrafters-io/build-your-own-x",
+      "stars": 560193,
+      "week_growth": 2797
     },
     {
       "rank": 20,
-      "full_name": "codecrafters-io/build-your-own-x",
-      "stars": 559895,
-      "week_growth": 2893
+      "full_name": "seedds/nxnative",
+      "stars": 12602,
+      "week_growth": 2784
     }
   ]
 }
