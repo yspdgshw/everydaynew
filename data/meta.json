@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-07",
-  "repo_count": 235,
-  "week_snapshot": "2026-10-31",
+  "last_update": "2026-11-08",
+  "repo_count": 238,
+  "week_snapshot": "2026-11-01",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 438487,
-      "week_growth": 25732
+      "stars": 441418,
+      "week_growth": 25451
     },
     {
       "rank": 2,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 64235,
-      "week_growth": 11181
+      "stars": 65583,
+      "week_growth": 10967
     },
     {
       "rank": 3,
       "full_name": "mattpocock/skills",
-      "stars": 316870,
-      "week_growth": 9283
+      "stars": 317849,
+      "week_growth": 9307
     },
     {
       "rank": 4,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 275083,
-      "week_growth": 8250
+      "stars": 275861,
+      "week_growth": 8281
     },
     {
       "rank": 5,
       "full_name": "Gathin23/cleanyourtv",
-      "stars": 53394,
-      "week_growth": 6489
+      "stars": 53995,
+      "week_growth": 5921
     },
     {
       "rank": 6,
-      "full_name": "affaan-m/ECC",
-      "stars": 298662,
-      "week_growth": 5185
+      "full_name": "sindresorhus/awesome",
+      "stars": 533311,
+      "week_growth": 5215
     },
     {
       "rank": 7,
-      "full_name": "sindresorhus/awesome",
-      "stars": 532613,
-      "week_growth": 5027
+      "full_name": "affaan-m/ECC",
+      "stars": 299252,
+      "week_growth": 5091
     },
     {
       "rank": 8,
-      "full_name": "yetone/magpie",
-      "stars": 31363,
-      "week_growth": 4975
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 186469,
+      "week_growth": 4869
     },
     {
       "rank": 9,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 185933,
-      "week_growth": 4893
+      "full_name": "yetone/magpie",
+      "stars": 31899,
+      "week_growth": 4835
     },
     {
       "rank": 10,
       "full_name": "Niko1221/Strata",
-      "stars": 41136,
-      "week_growth": 4569
+      "stars": 41572,
+      "week_growth": 4410
     },
     {
       "rank": 11,
       "full_name": "KnifeLemon/Filee",
-      "stars": 23125,
-      "week_growth": 4508
+      "stars": 23748,
+      "week_growth": 4356
     },
     {
       "rank": 12,
       "full_name": "obra/superpowers",
-      "stars": 313690,
-      "week_growth": 4179
+      "stars": 314177,
+      "week_growth": 4028
     },
     {
       "rank": 13,
       "full_name": "Zagitta/gpu-unlock",
-      "stars": 17646,
-      "week_growth": 4116
+      "stars": 17910,
+      "week_growth": 4018
     },
     {
       "rank": 14,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "stars": 230333,
-      "week_growth": 3399
+      "full_name": "JustVugg/colibri",
+      "stars": 48781,
+      "week_growth": 3368
     },
     {
       "rank": 15,
       "full_name": "lemomo-ai/lemo-opuscar",
-      "stars": 13096,
-      "week_growth": 3290
+      "stars": 13445,
+      "week_growth": 3301
     },
     {
       "rank": 16,
-      "full_name": "JustVugg/colibri",
-      "stars": 48506,
-      "week_growth": 3276
+      "full_name": "public-apis/public-apis",
+      "stars": 497063,
+      "week_growth": 3201
     },
     {
       "rank": 17,
-      "full_name": "public-apis/public-apis",
-      "stars": 496784,
-      "week_growth": 3203
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "stars": 230655,
+      "week_growth": 3083
     },
     {
       "rank": 18,
       "full_name": "anthropics/skills",
-      "stars": 188237,
-      "week_growth": 2820
+      "stars": 188891,
+      "week_growth": 2932
     },
     {
       "rank": 19,
       "full_name": "codecrafters-io/build-your-own-x",
-      "stars": 560485,
-      "week_growth": 2813
+      "stars": 560828,
+      "week_growth": 2903
     },
     {
       "rank": 20,
       "full_name": "seedds/nxnative",
-      "stars": 13019,
-      "week_growth": 2729
+      "stars": 13425,
+      "week_growth": 2746
     }
   ]
 }
