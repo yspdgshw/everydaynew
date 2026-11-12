@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-11",
-  "repo_count": 243,
-  "week_snapshot": "2026-11-04",
+  "last_update": "2026-11-12",
+  "repo_count": 246,
+  "week_snapshot": "2026-11-05",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 450507,
-      "week_growth": 22747
+      "stars": 453302,
+      "week_growth": 21681
     },
     {
       "rank": 2,
       "full_name": "storytold/craft-anything",
-      "stars": 26802,
-      "week_growth": 17829
+      "stars": 28794,
+      "week_growth": 16148
     },
     {
       "rank": 3,
       "full_name": "ccch1mneyyy/dsh-Go",
-      "stars": 18908,
-      "week_growth": 10894
+      "stars": 20007,
+      "week_growth": 9988
     },
     {
       "rank": 4,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 68986,
-      "week_growth": 9612
+      "stars": 70391,
+      "week_growth": 9300
     },
     {
       "rank": 5,
       "full_name": "mattpocock/skills",
-      "stars": 321122,
-      "week_growth": 9446
+      "stars": 322212,
+      "week_growth": 8595
     },
     {
       "rank": 6,
       "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 278360,
-      "week_growth": 6940
+      "stars": 279204,
+      "week_growth": 6319
     },
     {
       "rank": 7,
       "full_name": "heydamir/unslop",
-      "stars": 13902,
-      "week_growth": 6225
+      "stars": 14681,
+      "week_growth": 5845
     },
     {
       "rank": 8,
       "full_name": "anthropics/skills",
-      "stars": 192513,
-      "week_growth": 5344
+      "stars": 193276,
+      "week_growth": 5790
     },
     {
       "rank": 9,
-      "full_name": "deepseek-ai/dsh-superagent-prototype",
-      "stars": 22252,
-      "week_growth": 4936
+      "full_name": "yetone/magpie",
+      "stars": 34934,
+      "week_growth": 5003
     },
     {
       "rank": 10,
-      "full_name": "yetone/magpie",
-      "stars": 34072,
-      "week_growth": 4852
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 189288,
+      "week_growth": 4619
     },
     {
       "rank": 11,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 188510,
-      "week_growth": 4628
+      "full_name": "Gathin23/cleanyourtv",
+      "stars": 56637,
+      "week_growth": 4518
     },
     {
       "rank": 12,
-      "full_name": "Gathin23/cleanyourtv",
-      "stars": 56098,
-      "week_growth": 4598
+      "full_name": "sindresorhus/awesome",
+      "stars": 535486,
+      "week_growth": 4347
     },
     {
       "rank": 13,
-      "full_name": "sindresorhus/awesome",
-      "stars": 534963,
-      "week_growth": 4521
+      "full_name": "affaan-m/ECC",
+      "stars": 301509,
+      "week_growth": 4152
     },
     {
       "rank": 14,
-      "full_name": "affaan-m/ECC",
-      "stars": 300881,
-      "week_growth": 4233
+      "full_name": "KnifeLemon/Filee",
+      "stars": 26071,
+      "week_growth": 3939
     },
     {
       "rank": 15,
-      "full_name": "KnifeLemon/Filee",
-      "stars": 25567,
-      "week_growth": 4086
+      "full_name": "obra/superpowers",
+      "stars": 316394,
+      "week_growth": 3842
     },
     {
       "rank": 16,
-      "full_name": "obra/superpowers",
-      "stars": 315832,
-      "week_growth": 3858
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 22563,
+      "week_growth": 3768
     },
     {
       "rank": 17,
-      "full_name": "Niko1221/Strata",
-      "stars": 42947,
-      "week_growth": 3512
+      "full_name": "amosblomqvist/learnharness",
+      "stars": 8799,
+      "week_growth": 3387
     },
     {
       "rank": 18,
-      "full_name": "amosblomqvist/learnharness",
-      "stars": 8378,
-      "week_growth": 3153
+      "full_name": "Niko1221/Strata",
+      "stars": 43299,
+      "week_growth": 3212
     },
     {
       "rank": 19,
-      "full_name": "HunYiSage/dsh-purge",
-      "stars": 20195,
-      "week_growth": 2925
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "stars": 232279,
+      "week_growth": 2711
     },
     {
       "rank": 20,
-      "full_name": "Zagitta/gpu-unlock",
-      "stars": 18591,
-      "week_growth": 2794
+      "full_name": "jub0t/Concat",
+      "stars": 16916,
+      "week_growth": 2703
     }
   ]
 }
