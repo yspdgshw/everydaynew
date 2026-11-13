@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-12",
+  "last_update": "2026-11-13",
   "repo_count": 246,
-  "week_snapshot": "2026-11-05",
+  "week_snapshot": "2026-11-06",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 453302,
-      "week_growth": 21681
+      "stars": 455731,
+      "week_growth": 20652
     },
     {
       "rank": 2,
       "full_name": "storytold/craft-anything",
-      "stars": 28794,
-      "week_growth": 16148
+      "stars": 30264,
+      "week_growth": 14567
     },
     {
       "rank": 3,
       "full_name": "ccch1mneyyy/dsh-Go",
-      "stars": 20007,
-      "week_growth": 9988
+      "stars": 21028,
+      "week_growth": 9184
     },
     {
       "rank": 4,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 70391,
-      "week_growth": 9300
+      "stars": 71610,
+      "week_growth": 8947
     },
     {
       "rank": 5,
       "full_name": "mattpocock/skills",
-      "stars": 322212,
-      "week_growth": 8595
+      "stars": 323157,
+      "week_growth": 7596
     },
     {
       "rank": 6,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 279204,
-      "week_growth": 6319
+      "full_name": "anthropics/skills",
+      "stars": 193784,
+      "week_growth": 5955
     },
     {
       "rank": 7,
-      "full_name": "heydamir/unslop",
-      "stars": 14681,
-      "week_growth": 5845
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 279965,
+      "week_growth": 5908
     },
     {
       "rank": 8,
-      "full_name": "anthropics/skills",
-      "stars": 193276,
-      "week_growth": 5790
+      "full_name": "heydamir/unslop",
+      "stars": 15231,
+      "week_growth": 5228
     },
     {
       "rank": 9,
       "full_name": "yetone/magpie",
-      "stars": 34934,
-      "week_growth": 5003
+      "stars": 35594,
+      "week_growth": 4924
     },
     {
       "rank": 10,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 189288,
-      "week_growth": 4619
+      "stars": 189878,
+      "week_growth": 4533
     },
     {
       "rank": 11,
       "full_name": "Gathin23/cleanyourtv",
-      "stars": 56637,
-      "week_growth": 4518
+      "stars": 57098,
+      "week_growth": 4348
     },
     {
       "rank": 12,
       "full_name": "sindresorhus/awesome",
-      "stars": 535486,
-      "week_growth": 4347
+      "stars": 536048,
+      "week_growth": 4150
     },
     {
       "rank": 13,
       "full_name": "affaan-m/ECC",
-      "stars": 301509,
-      "week_growth": 4152
+      "stars": 302094,
+      "week_growth": 4125
     },
     {
       "rank": 14,
-      "full_name": "KnifeLemon/Filee",
-      "stars": 26071,
-      "week_growth": 3939
+      "full_name": "obra/superpowers",
+      "stars": 316885,
+      "week_growth": 3763
     },
     {
       "rank": 15,
-      "full_name": "obra/superpowers",
-      "stars": 316394,
-      "week_growth": 3842
+      "full_name": "KnifeLemon/Filee",
+      "stars": 26432,
+      "week_growth": 3738
     },
     {
       "rank": 16,
-      "full_name": "deepseek-ai/dsh-superagent-prototype",
-      "stars": 22563,
-      "week_growth": 3768
+      "full_name": "amosblomqvist/learnharness",
+      "stars": 9077,
+      "week_growth": 3504
     },
     {
       "rank": 17,
-      "full_name": "amosblomqvist/learnharness",
-      "stars": 8799,
-      "week_growth": 3387
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 22805,
+      "week_growth": 3101
     },
     {
       "rank": 18,
       "full_name": "Niko1221/Strata",
-      "stars": 43299,
-      "week_growth": 3212
+      "stars": 43619,
+      "week_growth": 2944
     },
     {
       "rank": 19,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "stars": 232279,
-      "week_growth": 2711
+      "full_name": "kingcharleslzy-ai/dsh-purge",
+      "stars": 7560,
+      "week_growth": 2906
     },
     {
       "rank": 20,
       "full_name": "jub0t/Concat",
-      "stars": 16916,
-      "week_growth": 2703
+      "stars": 17188,
+      "week_growth": 2729
     }
   ]
 }
