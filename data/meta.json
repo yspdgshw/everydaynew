@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-13",
+  "last_update": "2026-11-14",
   "repo_count": 246,
-  "week_snapshot": "2026-11-06",
+  "week_snapshot": "2026-11-07",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 455731,
-      "week_growth": 20652
+      "stars": 457990,
+      "week_growth": 19503
     },
     {
       "rank": 2,
       "full_name": "storytold/craft-anything",
-      "stars": 30264,
-      "week_growth": 14567
+      "stars": 31615,
+      "week_growth": 13115
     },
     {
       "rank": 3,
-      "full_name": "ccch1mneyyy/dsh-Go",
-      "stars": 21028,
-      "week_growth": 9184
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "stars": 73108,
+      "week_growth": 8873
     },
     {
       "rank": 4,
-      "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 71610,
-      "week_growth": 8947
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "stars": 21983,
+      "week_growth": 8844
     },
     {
       "rank": 5,
       "full_name": "mattpocock/skills",
-      "stars": 323157,
-      "week_growth": 7596
+      "stars": 323909,
+      "week_growth": 7039
     },
     {
       "rank": 6,
-      "full_name": "anthropics/skills",
-      "stars": 193784,
-      "week_growth": 5955
+      "full_name": "milind-soni/OpenMausBot",
+      "stars": 22272,
+      "week_growth": 6656
     },
     {
       "rank": 7,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 279965,
-      "week_growth": 5908
+      "full_name": "anthropics/skills",
+      "stars": 194199,
+      "week_growth": 5962
     },
     {
       "rank": 8,
-      "full_name": "heydamir/unslop",
-      "stars": 15231,
-      "week_growth": 5228
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 280633,
+      "week_growth": 5550
     },
     {
       "rank": 9,
-      "full_name": "yetone/magpie",
-      "stars": 35594,
-      "week_growth": 4924
+      "full_name": "heydamir/unslop",
+      "stars": 15738,
+      "week_growth": 4904
     },
     {
       "rank": 10,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 189878,
-      "week_growth": 4533
+      "full_name": "yetone/magpie",
+      "stars": 36209,
+      "week_growth": 4846
     },
     {
       "rank": 11,
-      "full_name": "Gathin23/cleanyourtv",
-      "stars": 57098,
-      "week_growth": 4348
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 190437,
+      "week_growth": 4504
     },
     {
       "rank": 12,
-      "full_name": "sindresorhus/awesome",
-      "stars": 536048,
-      "week_growth": 4150
+      "full_name": "Gathin23/cleanyourtv",
+      "stars": 57490,
+      "week_growth": 4096
     },
     {
       "rank": 13,
-      "full_name": "affaan-m/ECC",
-      "stars": 302094,
-      "week_growth": 4125
+      "full_name": "sindresorhus/awesome",
+      "stars": 536536,
+      "week_growth": 3923
     },
     {
       "rank": 14,
-      "full_name": "obra/superpowers",
-      "stars": 316885,
-      "week_growth": 3763
+      "full_name": "affaan-m/ECC",
+      "stars": 302531,
+      "week_growth": 3869
     },
     {
       "rank": 15,
       "full_name": "KnifeLemon/Filee",
-      "stars": 26432,
-      "week_growth": 3738
+      "stars": 26839,
+      "week_growth": 3714
     },
     {
       "rank": 16,
-      "full_name": "amosblomqvist/learnharness",
-      "stars": 9077,
-      "week_growth": 3504
+      "full_name": "obra/superpowers",
+      "stars": 317297,
+      "week_growth": 3607
     },
     {
       "rank": 17,
-      "full_name": "deepseek-ai/dsh-superagent-prototype",
-      "stars": 22805,
-      "week_growth": 3101
+      "full_name": "amosblomqvist/learnharness",
+      "stars": 9294,
+      "week_growth": 3495
     },
     {
       "rank": 18,
-      "full_name": "Niko1221/Strata",
-      "stars": 43619,
-      "week_growth": 2944
+      "full_name": "kingcharleslzy-ai/dsh-purge",
+      "stars": 7995,
+      "week_growth": 3206
     },
     {
       "rank": 19,
-      "full_name": "kingcharleslzy-ai/dsh-purge",
-      "stars": 7560,
-      "week_growth": 2906
+      "full_name": "Niko1221/Strata",
+      "stars": 43947,
+      "week_growth": 2811
     },
     {
       "rank": 20,
-      "full_name": "jub0t/Concat",
-      "stars": 17188,
-      "week_growth": 2729
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 23044,
+      "week_growth": 2692
     }
   ]
 }
