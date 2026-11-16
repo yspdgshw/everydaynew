@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-15",
-  "repo_count": 249,
-  "week_snapshot": "2026-11-08",
+  "last_update": "2026-11-16",
+  "repo_count": 251,
+  "week_snapshot": "2026-11-09",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 460231,
-      "week_growth": 18813
+      "stars": 462307,
+      "week_growth": 17984
     },
     {
       "rank": 2,
       "full_name": "storytold/craft-anything",
-      "stars": 32952,
-      "week_growth": 11949
+      "stars": 33999,
+      "week_growth": 10922
     },
     {
       "rank": 3,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 74643,
-      "week_growth": 9060
+      "stars": 76130,
+      "week_growth": 9753
     },
     {
       "rank": 4,
       "full_name": "ccch1mneyyy/dsh-Go",
-      "stars": 22952,
-      "week_growth": 8245
+      "stars": 23978,
+      "week_growth": 7542
     },
     {
       "rank": 5,
       "full_name": "mattpocock/skills",
-      "stars": 324574,
-      "week_growth": 6725
+      "stars": 325320,
+      "week_growth": 6599
     },
     {
       "rank": 6,
       "full_name": "anthropics/skills",
-      "stars": 194693,
-      "week_growth": 5802
+      "stars": 195473,
+      "week_growth": 5636
     },
     {
       "rank": 7,
-      "full_name": "milind-soni/OpenMausBot",
-      "stars": 22873,
-      "week_growth": 5688
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 281789,
+      "week_growth": 5083
     },
     {
       "rank": 8,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 281183,
-      "week_growth": 5322
+      "full_name": "milind-soni/OpenMausBot",
+      "stars": 23572,
+      "week_growth": 4974
     },
     {
       "rank": 9,
-      "full_name": "yetone/magpie",
-      "stars": 36611,
-      "week_growth": 4712
+      "full_name": "heydamir/unslop",
+      "stars": 16849,
+      "week_growth": 4740
     },
     {
       "rank": 10,
-      "full_name": "heydamir/unslop",
-      "stars": 16109,
-      "week_growth": 4668
+      "full_name": "yetone/magpie",
+      "stars": 37143,
+      "week_growth": 4634
     },
     {
       "rank": 11,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 191004,
-      "week_growth": 4535
+      "stars": 191555,
+      "week_growth": 4542
     },
     {
       "rank": 12,
-      "full_name": "affaan-m/ECC",
-      "stars": 303215,
-      "week_growth": 3963
+      "full_name": "google/elephant-goldfish-model",
+      "stars": 19895,
+      "week_growth": 4537
     },
     {
       "rank": 13,
-      "full_name": "Gathin23/cleanyourtv",
-      "stars": 57934,
-      "week_growth": 3939
+      "full_name": "affaan-m/ECC",
+      "stars": 303932,
+      "week_growth": 4154
     },
     {
       "rank": 14,
       "full_name": "sindresorhus/awesome",
-      "stars": 537034,
-      "week_growth": 3723
+      "stars": 537570,
+      "week_growth": 3603
     },
     {
       "rank": 15,
-      "full_name": "obra/superpowers",
-      "stars": 317704,
-      "week_growth": 3527
+      "full_name": "Gathin23/cleanyourtv",
+      "stars": 58342,
+      "week_growth": 3492
     },
     {
       "rank": 16,
-      "full_name": "KnifeLemon/Filee",
-      "stars": 27228,
-      "week_growth": 3480
+      "full_name": "obra/superpowers",
+      "stars": 318143,
+      "week_growth": 3475
     },
     {
       "rank": 17,
-      "full_name": "zortos293/Lichii",
-      "stars": 9226,
-      "week_growth": 3359
+      "full_name": "KnifeLemon/Filee",
+      "stars": 27674,
+      "week_growth": 3379
     },
     {
       "rank": 18,
       "full_name": "kingcharleslzy-ai/dsh-purge",
-      "stars": 8390,
-      "week_growth": 3345
+      "stars": 8845,
+      "week_growth": 3222
     },
     {
       "rank": 19,
-      "full_name": "amosblomqvist/learnharness",
-      "stars": 9463,
-      "week_growth": 3220
+      "full_name": "lemomo-ai/lemo-opuscar",
+      "stars": 16853,
+      "week_growth": 3103
     },
     {
       "rank": 20,
-      "full_name": "lemomo-ai/lemo-opuscar",
-      "stars": 16299,
-      "week_growth": 2854
+      "full_name": "amosblomqvist/learnharness",
+      "stars": 9623,
+      "week_growth": 2984
     }
   ]
 }
