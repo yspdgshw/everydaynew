@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-21",
-  "repo_count": 261,
-  "week_snapshot": "2026-11-14",
+  "last_update": "2026-11-22",
+  "repo_count": 262,
+  "week_snapshot": "2026-11-15",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 471742,
-      "week_growth": 13752
+      "stars": 473006,
+      "week_growth": 12775
     },
     {
       "rank": 2,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 82313,
-      "week_growth": 9205
+      "stars": 83258,
+      "week_growth": 8615
     },
     {
       "rank": 3,
       "full_name": "storytold/craft-anything",
-      "stars": 39651,
-      "week_growth": 8036
+      "stars": 40487,
+      "week_growth": 7535
     },
     {
       "rank": 4,
       "full_name": "ccch1mneyyy/dsh-Go",
-      "stars": 29134,
-      "week_growth": 7151
+      "stars": 29727,
+      "week_growth": 6775
     },
     {
       "rank": 5,
-      "full_name": "obra/superpowers",
-      "stars": 322959,
-      "week_growth": 5662
+      "full_name": "anefzaoui/misterdownloadmanager",
+      "stars": 15863,
+      "week_growth": 6187
     },
     {
       "rank": 6,
-      "full_name": "affaan-m/ECC",
-      "stars": 307943,
-      "week_growth": 5412
+      "full_name": "obra/superpowers",
+      "stars": 323836,
+      "week_growth": 6132
     },
     {
       "rank": 7,
-      "full_name": "anefzaoui/misterdownloadmanager",
-      "stars": 14402,
-      "week_growth": 5328
+      "full_name": "boykopovar/AnyPS5",
+      "stars": 59739,
+      "week_growth": 5758
     },
     {
       "rank": 8,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 195749,
-      "week_growth": 5312
+      "stars": 196462,
+      "week_growth": 5458
     },
     {
       "rank": 9,
       "full_name": "mattpocock/skills",
-      "stars": 329109,
-      "week_growth": 5200
+      "stars": 329867,
+      "week_growth": 5293
     },
     {
       "rank": 10,
-      "full_name": "boykopovar/AnyPS5",
-      "stars": 58923,
-      "week_growth": 5167
+      "full_name": "affaan-m/ECC",
+      "stars": 308462,
+      "week_growth": 5247
     },
     {
       "rank": 11,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 284778,
-      "week_growth": 4145
+      "full_name": "firecrawl/firecrawl",
+      "stars": 206363,
+      "week_growth": 4511
     },
     {
       "rank": 12,
-      "full_name": "milind-soni/OpenMausBot",
-      "stars": 26273,
-      "week_growth": 4001
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 285169,
+      "week_growth": 3986
     },
     {
       "rank": 13,
       "full_name": "anthropics/skills",
-      "stars": 198133,
-      "week_growth": 3934
+      "stars": 198576,
+      "week_growth": 3883
     },
     {
       "rank": 14,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 205471,
-      "week_growth": 3864
+      "full_name": "heydamir/unslop",
+      "stars": 19841,
+      "week_growth": 3732
     },
     {
       "rank": 15,
-      "full_name": "heydamir/unslop",
-      "stars": 19355,
-      "week_growth": 3617
+      "full_name": "milind-soni/OpenMausBot",
+      "stars": 26575,
+      "week_growth": 3702
     },
     {
       "rank": 16,
       "full_name": "sindresorhus/awesome",
-      "stars": 540120,
-      "week_growth": 3584
+      "stars": 540619,
+      "week_growth": 3585
     },
     {
       "rank": 17,
       "full_name": "lemomo-ai/lemo-opuscar",
-      "stars": 19192,
-      "week_growth": 3428
+      "stars": 19564,
+      "week_growth": 3265
     },
     {
       "rank": 18,
-      "full_name": "JuneYaooo/rea-video",
-      "stars": 11493,
-      "week_growth": 3425
+      "full_name": "yetone/magpie",
+      "stars": 39831,
+      "week_growth": 3220
     },
     {
       "rank": 19,
-      "full_name": "yetone/magpie",
-      "stars": 39587,
-      "week_growth": 3378
+      "full_name": "JuneYaooo/rea-video",
+      "stars": 11895,
+      "week_growth": 3208
     },
     {
       "rank": 20,
       "full_name": "kingcharleslzy-ai/dsh-purge",
-      "stars": 11043,
-      "week_growth": 3048
+      "stars": 11360,
+      "week_growth": 2970
     }
   ]
 }
