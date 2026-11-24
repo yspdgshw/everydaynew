@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-23",
-  "repo_count": 264,
-  "week_snapshot": "2026-11-16",
+  "last_update": "2026-11-24",
+  "repo_count": 269,
+  "week_snapshot": "2026-11-17",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 474450,
-      "week_growth": 12143
+      "stars": 476132,
+      "week_growth": 11448
     },
     {
       "rank": 2,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 84229,
-      "week_growth": 8099
+      "stars": 85435,
+      "week_growth": 7723
     },
     {
       "rank": 3,
       "full_name": "storytold/craft-anything",
-      "stars": 41442,
-      "week_growth": 7443
+      "stars": 42394,
+      "week_growth": 7345
     },
     {
       "rank": 4,
-      "full_name": "ccch1mneyyy/dsh-Go",
-      "stars": 30341,
-      "week_growth": 6363
+      "full_name": "obra/superpowers",
+      "stars": 325403,
+      "week_growth": 6610
     },
     {
       "rank": 5,
       "full_name": "boykopovar/AnyPS5",
-      "stars": 60457,
-      "week_growth": 6210
+      "stars": 61117,
+      "week_growth": 6531
     },
     {
       "rank": 6,
       "full_name": "anefzaoui/misterdownloadmanager",
-      "stars": 16792,
-      "week_growth": 6201
+      "stars": 17512,
+      "week_growth": 6196
     },
     {
       "rank": 7,
-      "full_name": "obra/superpowers",
-      "stars": 324338,
-      "week_growth": 6195
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "stars": 31021,
+      "week_growth": 5880
     },
     {
       "rank": 8,
-      "full_name": "libracoder/kiri",
-      "stars": 12413,
-      "week_growth": 5510
+      "full_name": "firecrawl/firecrawl",
+      "stars": 208245,
+      "week_growth": 5819
     },
     {
       "rank": 9,
-      "full_name": "DietrichGebert/ponytail",
-      "stars": 197019,
-      "week_growth": 5464
+      "full_name": "mattpocock/skills",
+      "stars": 331683,
+      "week_growth": 5577
     },
     {
       "rank": 10,
-      "full_name": "mattpocock/skills",
-      "stars": 330708,
-      "week_growth": 5388
+      "full_name": "DietrichGebert/ponytail",
+      "stars": 197711,
+      "week_growth": 5357
     },
     {
       "rank": 11,
       "full_name": "affaan-m/ECC",
-      "stars": 309132,
-      "week_growth": 5200
+      "stars": 309770,
+      "week_growth": 4981
     },
     {
       "rank": 12,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 207219,
-      "week_growth": 5107
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 286297,
+      "week_growth": 3764
     },
     {
       "rank": 13,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 285696,
-      "week_growth": 3907
+      "full_name": "sindresorhus/awesome",
+      "stars": 541894,
+      "week_growth": 3755
     },
     {
       "rank": 14,
-      "full_name": "RoutineMiku/apkstart",
-      "stars": 9302,
-      "week_growth": 3844
+      "full_name": "heydamir/unslop",
+      "stars": 20994,
+      "week_growth": 3624
     },
     {
       "rank": 15,
-      "full_name": "sindresorhus/awesome",
-      "stars": 541214,
-      "week_growth": 3644
+      "full_name": "libracoder/kiri",
+      "stars": 12754,
+      "week_growth": 3484
     },
     {
       "rank": 16,
       "full_name": "anthropics/skills",
-      "stars": 199114,
-      "week_growth": 3641
+      "stars": 199625,
+      "week_growth": 3401
     },
     {
       "rank": 17,
-      "full_name": "heydamir/unslop",
-      "stars": 20392,
-      "week_growth": 3543
+      "full_name": "lemomo-ai/lemo-opuscar",
+      "stars": 20426,
+      "week_growth": 3038
     },
     {
       "rank": 18,
-      "full_name": "milind-soni/OpenMausBot",
-      "stars": 26918,
-      "week_growth": 3346
+      "full_name": "yetone/magpie",
+      "stars": 40765,
+      "week_growth": 3001
     },
     {
       "rank": 19,
-      "full_name": "lemomo-ai/lemo-opuscar",
-      "stars": 19993,
-      "week_growth": 3140
+      "full_name": "JuneYaooo/rea-video",
+      "stars": 12810,
+      "week_growth": 2970
     },
     {
       "rank": 20,
-      "full_name": "JuneYaooo/rea-video",
-      "stars": 12329,
-      "week_growth": 3033
+      "full_name": "milind-soni/OpenMausBot",
+      "stars": 27307,
+      "week_growth": 2957
     }
   ]
 }
