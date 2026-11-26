@@ -1,127 +1,127 @@
 {
-  "last_update": "2026-11-25",
-  "repo_count": 271,
-  "week_snapshot": "2026-11-18",
+  "last_update": "2026-11-26",
+  "repo_count": 275,
+  "week_snapshot": "2026-11-19",
   "top": [
     {
       "rank": 1,
       "full_name": "morluto/rea",
-      "stars": 477522,
-      "week_growth": 10751
+      "stars": 478791,
+      "week_growth": 10159
     },
     {
       "rank": 2,
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "stars": 86452,
-      "week_growth": 7552
+      "stars": 87458,
+      "week_growth": 7359
     },
     {
       "rank": 3,
-      "full_name": "storytold/craft-anything",
-      "stars": 43026,
-      "week_growth": 7010
+      "full_name": "firecrawl/firecrawl",
+      "stars": 210305,
+      "week_growth": 6953
     },
     {
       "rank": 4,
-      "full_name": "obra/superpowers",
-      "stars": 326025,
-      "week_growth": 6521
+      "full_name": "storytold/craft-anything",
+      "stars": 43704,
+      "week_growth": 6301
     },
     {
       "rank": 5,
-      "full_name": "firecrawl/firecrawl",
-      "stars": 209203,
-      "week_growth": 6501
+      "full_name": "mattpocock/skills",
+      "stars": 333064,
+      "week_growth": 5468
     },
     {
       "rank": 6,
-      "full_name": "boykopovar/AnyPS5",
-      "stars": 61350,
-      "week_growth": 6342
+      "full_name": "obra/superpowers",
+      "stars": 326832,
+      "week_growth": 5378
     },
     {
       "rank": 7,
-      "full_name": "anefzaoui/misterdownloadmanager",
-      "stars": 17924,
-      "week_growth": 5609
+      "full_name": "boykopovar/AnyPS5",
+      "stars": 61560,
+      "week_growth": 5208
     },
     {
       "rank": 8,
-      "full_name": "mattpocock/skills",
-      "stars": 332393,
-      "week_growth": 5479
+      "full_name": "anefzaoui/misterdownloadmanager",
+      "stars": 18268,
+      "week_growth": 5026
     },
     {
       "rank": 9,
       "full_name": "ccch1mneyyy/dsh-Go",
-      "stars": 31522,
-      "week_growth": 5181
+      "stars": 32209,
+      "week_growth": 4766
     },
     {
       "rank": 10,
       "full_name": "DietrichGebert/ponytail",
-      "stars": 198233,
-      "week_growth": 4889
+      "stars": 198878,
+      "week_growth": 4649
     },
     {
       "rank": 11,
       "full_name": "affaan-m/ECC",
-      "stars": 310333,
-      "week_growth": 4589
+      "stars": 310852,
+      "week_growth": 4139
     },
     {
       "rank": 12,
       "full_name": "sindresorhus/awesome",
-      "stars": 542472,
-      "week_growth": 3822
+      "stars": 542983,
+      "week_growth": 3844
     },
     {
       "rank": 13,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "stars": 286708,
-      "week_growth": 3535
+      "full_name": "heydamir/unslop",
+      "stars": 21829,
+      "week_growth": 3458
     },
     {
       "rank": 14,
-      "full_name": "heydamir/unslop",
-      "stars": 21380,
-      "week_growth": 3481
+      "full_name": "deepseek-ai/deepseek-harness",
+      "stars": 287214,
+      "week_growth": 3417
     },
     {
       "rank": 15,
       "full_name": "anthropics/skills",
-      "stars": 200118,
-      "week_growth": 3263
+      "stars": 200673,
+      "week_growth": 3346
     },
     {
       "rank": 16,
       "full_name": "yetone/magpie",
-      "stars": 41184,
-      "week_growth": 2884
+      "stars": 41683,
+      "week_growth": 2936
     },
     {
       "rank": 17,
       "full_name": "lemomo-ai/lemo-opuscar",
-      "stars": 20808,
-      "week_growth": 2847
-    },
-    {
-      "rank": 18,
-      "full_name": "libracoder/kiri",
-      "stars": 13118,
+      "stars": 21259,
       "week_growth": 2835
     },
     {
-      "rank": 19,
+      "rank": 18,
       "full_name": "JuneYaooo/rea-video",
-      "stars": 13109,
-      "week_growth": 2727
+      "stars": 13470,
+      "week_growth": 2688
+    },
+    {
+      "rank": 19,
+      "full_name": "libracoder/kiri",
+      "stars": 13526,
+      "week_growth": 2631
     },
     {
       "rank": 20,
-      "full_name": "milind-soni/OpenMausBot",
-      "stars": 27629,
-      "week_growth": 2673
+      "full_name": "Niko1221/Strata",
+      "stars": 48245,
+      "week_growth": 2521
     }
   ]
 }
